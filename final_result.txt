@@ -1,0 +1,254 @@
+Patching theano.tensor.signal.downsample = theano.tensor.signal.pool
+DEBUG: Importing theano...
+DEBUG: Importing lasagne.utils...
+DEBUG: Importing theano.tensor...
+DEBUG: Importing lasagne...
+DEBUG: Importing lasagne.regularization...
+DEBUG: Importing theano.sparse...
+DEBUG: Importing lasagne.layers...
+DEBUG: gcnmodel imports finished.
+DEBUG: gcnmain.py - after import gcnmodel
+DEBUG: gcnmain.py - after logging config
+DEBUG: gcnmain.py - after logging info
+DEBUG: gcnmain.py - after seeded
+DEBUG: preprocess_data called with ./data
+DEBUG: loading data from dumped file...
+DEBUG: loading data finished!
+DEBUG: Entered main()
+DEBUG: Stacking features...
+DEBUG: X stacked
+DEBUG: Y stacked
+DEBUG: Types casted
+DEBUG: Initializing GraphConv...
+DEBUG: GraphConv initialized. Building model...
+DEBUG: Model built.
+DEBUG: fractions = [1.0]
+DEBUG: Inside loop, percentile=1.0
+DEBUG: Fitting model...
+DEBUG: gcnmodel.fit called
+DEBUG: Starting training loop for 10000 epochs...
+DEBUG: Epoch 0 start
+Epoch 0: Train Loss 3.5025, Train Acc 2.96%, Val Loss 3.4661, Val Acc 3.73%
+DEBUG: Epoch 1 start
+Epoch 1: Train Loss 3.4841, Train Acc 14.79%, Val Loss 3.4558, Val Acc 8.93%
+DEBUG: Epoch 2 start
+Epoch 2: Train Loss 3.4650, Train Acc 22.41%, Val Loss 3.4445, Val Acc 12.60%
+DEBUG: Epoch 3 start
+Epoch 3: Train Loss 3.4456, Train Acc 24.73%, Val Loss 3.4318, Val Acc 13.64%
+DEBUG: Epoch 4 start
+Epoch 4: Train Loss 3.4256, Train Acc 28.07%, Val Loss 3.4181, Val Acc 15.29%
+DEBUG: Epoch 5 start
+Epoch 5: Train Loss 3.4045, Train Acc 31.58%, Val Loss 3.4034, Val Acc 17.59%
+DEBUG: Epoch 6 start
+Epoch 6: Train Loss 3.3835, Train Acc 34.82%, Val Loss 3.3889, Val Acc 19.95%
+DEBUG: Epoch 7 start
+Epoch 7: Train Loss 3.3613, Train Acc 38.12%, Val Loss 3.3725, Val Acc 22.96%
+DEBUG: Epoch 8 start
+Epoch 8: Train Loss 3.3376, Train Acc 41.66%, Val Loss 3.3552, Val Acc 26.52%
+DEBUG: Epoch 9 start
+Epoch 9: Train Loss 3.3141, Train Acc 44.09%, Val Loss 3.3379, Val Acc 27.73%
+DEBUG: Epoch 10 start
+Epoch 10: Train Loss 3.2895, Train Acc 47.00%, Val Loss 3.3187, Val Acc 29.64%
+DEBUG: Epoch 11 start
+Epoch 11: Train Loss 3.2650, Train Acc 49.24%, Val Loss 3.2999, Val Acc 30.85%
+DEBUG: Epoch 12 start
+Epoch 12: Train Loss 3.2390, Train Acc 50.34%, Val Loss 3.2801, Val Acc 31.56%
+DEBUG: Epoch 13 start
+Epoch 13: Train Loss 3.2142, Train Acc 51.47%, Val Loss 3.2590, Val Acc 32.88%
+DEBUG: Epoch 14 start
+Epoch 14: Train Loss 3.1866, Train Acc 52.67%, Val Loss 3.2384, Val Acc 32.88%
+DEBUG: Epoch 15 start
+Epoch 15: Train Loss 3.1593, Train Acc 53.68%, Val Loss 3.2168, Val Acc 33.53%
+DEBUG: Epoch 16 start
+Epoch 16: Train Loss 3.1334, Train Acc 54.25%, Val Loss 3.1964, Val Acc 34.19%
+DEBUG: Epoch 17 start
+Epoch 17: Train Loss 3.1054, Train Acc 54.76%, Val Loss 3.1741, Val Acc 35.56%
+DEBUG: Epoch 18 start
+Epoch 18: Train Loss 3.0773, Train Acc 55.70%, Val Loss 3.1528, Val Acc 35.23%
+DEBUG: Epoch 19 start
+Epoch 19: Train Loss 3.0497, Train Acc 55.32%, Val Loss 3.1302, Val Acc 36.22%
+DEBUG: Epoch 20 start
+Epoch 20: Train Loss 3.0202, Train Acc 55.82%, Val Loss 3.1080, Val Acc 36.66%
+DEBUG: Epoch 21 start
+Epoch 21: Train Loss 2.9936, Train Acc 56.52%, Val Loss 3.0866, Val Acc 35.95%
+DEBUG: Epoch 22 start
+Epoch 22: Train Loss 2.9652, Train Acc 56.76%, Val Loss 3.0642, Val Acc 36.82%
+DEBUG: Epoch 23 start
+Epoch 23: Train Loss 2.9372, Train Acc 57.04%, Val Loss 3.0433, Val Acc 36.55%
+DEBUG: Epoch 24 start
+Epoch 24: Train Loss 2.9099, Train Acc 57.25%, Val Loss 3.0223, Val Acc 37.37%
+DEBUG: Epoch 25 start
+Epoch 25: Train Loss 2.8785, Train Acc 58.31%, Val Loss 2.9975, Val Acc 37.10%
+DEBUG: Epoch 26 start
+Epoch 26: Train Loss 2.8536, Train Acc 57.86%, Val Loss 2.9792, Val Acc 37.48%
+DEBUG: Epoch 27 start
+Epoch 27: Train Loss 2.8246, Train Acc 58.47%, Val Loss 2.9558, Val Acc 38.47%
+DEBUG: Epoch 28 start
+Epoch 28: Train Loss 2.7955, Train Acc 58.59%, Val Loss 2.9371, Val Acc 39.18%
+DEBUG: Epoch 29 start
+Epoch 29: Train Loss 2.7689, Train Acc 58.62%, Val Loss 2.9165, Val Acc 38.79%
+DEBUG: Epoch 30 start
+Epoch 30: Train Loss 2.7424, Train Acc 59.63%, Val Loss 2.8986, Val Acc 39.67%
+DEBUG: Epoch 31 start
+Epoch 31: Train Loss 2.7156, Train Acc 59.67%, Val Loss 2.8778, Val Acc 39.01%
+DEBUG: Epoch 32 start
+Epoch 32: Train Loss 2.6865, Train Acc 59.77%, Val Loss 2.8580, Val Acc 40.11%
+DEBUG: Epoch 33 start
+Epoch 33: Train Loss 2.6599, Train Acc 59.46%, Val Loss 2.8396, Val Acc 39.95%
+DEBUG: Epoch 34 start
+Epoch 34: Train Loss 2.6318, Train Acc 60.33%, Val Loss 2.8211, Val Acc 39.62%
+DEBUG: Epoch 35 start
+Epoch 35: Train Loss 2.6048, Train Acc 60.31%, Val Loss 2.8002, Val Acc 40.27%
+DEBUG: Epoch 36 start
+Epoch 36: Train Loss 2.5790, Train Acc 60.03%, Val Loss 2.7822, Val Acc 40.33%
+DEBUG: Epoch 37 start
+Epoch 37: Train Loss 2.5502, Train Acc 61.08%, Val Loss 2.7658, Val Acc 40.05%
+DEBUG: Epoch 38 start
+Epoch 38: Train Loss 2.5227, Train Acc 61.04%, Val Loss 2.7464, Val Acc 40.82%
+DEBUG: Epoch 39 start
+Epoch 39: Train Loss 2.4942, Train Acc 61.34%, Val Loss 2.7297, Val Acc 41.42%
+DEBUG: Epoch 40 start
+Epoch 40: Train Loss 2.4693, Train Acc 61.93%, Val Loss 2.7138, Val Acc 40.05%
+DEBUG: Epoch 41 start
+Epoch 41: Train Loss 2.4446, Train Acc 61.96%, Val Loss 2.6960, Val Acc 40.44%
+DEBUG: Epoch 42 start
+Epoch 42: Train Loss 2.4151, Train Acc 62.45%, Val Loss 2.6793, Val Acc 39.84%
+DEBUG: Epoch 43 start
+Epoch 43: Train Loss 2.3882, Train Acc 62.48%, Val Loss 2.6561, Val Acc 41.04%
+DEBUG: Epoch 44 start
+Epoch 44: Train Loss 2.3630, Train Acc 62.61%, Val Loss 2.6444, Val Acc 40.71%
+DEBUG: Epoch 45 start
+Epoch 45: Train Loss 2.3339, Train Acc 63.06%, Val Loss 2.6203, Val Acc 40.77%
+DEBUG: Epoch 46 start
+Epoch 46: Train Loss 2.3083, Train Acc 63.44%, Val Loss 2.6072, Val Acc 41.04%
+DEBUG: Epoch 47 start
+Epoch 47: Train Loss 2.2828, Train Acc 63.88%, Val Loss 2.5909, Val Acc 41.21%
+DEBUG: Epoch 48 start
+Epoch 48: Train Loss 2.2565, Train Acc 64.17%, Val Loss 2.5663, Val Acc 41.97%
+DEBUG: Epoch 49 start
+Epoch 49: Train Loss 2.2325, Train Acc 63.81%, Val Loss 2.5564, Val Acc 40.93%
+DEBUG: Epoch 50 start
+Epoch 50: Train Loss 2.2060, Train Acc 64.49%, Val Loss 2.5354, Val Acc 41.48%
+DEBUG: Epoch 51 start
+Epoch 51: Train Loss 2.1804, Train Acc 65.04%, Val Loss 2.5238, Val Acc 41.37%
+DEBUG: Epoch 52 start
+Epoch 52: Train Loss 2.1571, Train Acc 64.85%, Val Loss 2.5083, Val Acc 41.42%
+DEBUG: Epoch 53 start
+Epoch 53: Train Loss 2.1309, Train Acc 65.08%, Val Loss 2.4946, Val Acc 42.03%
+DEBUG: Epoch 54 start
+Epoch 54: Train Loss 2.1068, Train Acc 65.55%, Val Loss 2.4775, Val Acc 42.25%
+DEBUG: Epoch 55 start
+Epoch 55: Train Loss 2.0827, Train Acc 66.12%, Val Loss 2.4586, Val Acc 41.92%
+DEBUG: Epoch 56 start
+Epoch 56: Train Loss 2.0564, Train Acc 66.33%, Val Loss 2.4455, Val Acc 42.08%
+DEBUG: Epoch 57 start
+Epoch 57: Train Loss 2.0340, Train Acc 66.70%, Val Loss 2.4309, Val Acc 42.85%
+DEBUG: Epoch 58 start
+Epoch 58: Train Loss 2.0115, Train Acc 66.77%, Val Loss 2.4186, Val Acc 42.36%
+DEBUG: Epoch 59 start
+Epoch 59: Train Loss 1.9869, Train Acc 67.15%, Val Loss 2.4082, Val Acc 41.92%
+DEBUG: Epoch 60 start
+Epoch 60: Train Loss 1.9663, Train Acc 67.86%, Val Loss 2.3962, Val Acc 42.03%
+DEBUG: Epoch 61 start
+Epoch 61: Train Loss 1.9438, Train Acc 68.37%, Val Loss 2.3795, Val Acc 41.26%
+DEBUG: Epoch 62 start
+Epoch 62: Train Loss 1.9228, Train Acc 68.19%, Val Loss 2.3664, Val Acc 42.03%
+DEBUG: Epoch 63 start
+Epoch 63: Train Loss 1.9006, Train Acc 68.35%, Val Loss 2.3609, Val Acc 42.30%
+DEBUG: Epoch 64 start
+Epoch 64: Train Loss 1.8814, Train Acc 68.94%, Val Loss 2.3499, Val Acc 41.92%
+DEBUG: Epoch 65 start
+Epoch 65: Train Loss 1.8584, Train Acc 69.29%, Val Loss 2.3396, Val Acc 41.64%
+DEBUG: Epoch 66 start
+Epoch 66: Train Loss 1.8377, Train Acc 69.90%, Val Loss 2.3276, Val Acc 41.92%
+DEBUG: Epoch 67 start
+Epoch 67: Train Loss 1.8177, Train Acc 70.12%, Val Loss 2.3184, Val Acc 42.63%
+DEBUG: Epoch 68 start
+Epoch 68: Train Loss 1.7963, Train Acc 70.25%, Val Loss 2.3075, Val Acc 42.08%
+DEBUG: Epoch 69 start
+Epoch 69: Train Loss 1.7793, Train Acc 70.58%, Val Loss 2.3097, Val Acc 41.86%
+DEBUG: Epoch 70 start
+Epoch 70: Train Loss 1.7606, Train Acc 70.94%, Val Loss 2.2950, Val Acc 42.90%
+DEBUG: Epoch 71 start
+Epoch 71: Train Loss 1.7415, Train Acc 71.31%, Val Loss 2.2864, Val Acc 42.19%
+DEBUG: Epoch 72 start
+Epoch 72: Train Loss 1.7210, Train Acc 71.52%, Val Loss 2.2779, Val Acc 42.19%
+DEBUG: Epoch 73 start
+Epoch 73: Train Loss 1.7031, Train Acc 71.79%, Val Loss 2.2682, Val Acc 42.08%
+DEBUG: Epoch 74 start
+Epoch 74: Train Loss 1.6856, Train Acc 72.04%, Val Loss 2.2745, Val Acc 41.86%
+DEBUG: Epoch 75 start
+Epoch 75: Train Loss 1.6684, Train Acc 72.63%, Val Loss 2.2639, Val Acc 41.81%
+DEBUG: Epoch 76 start
+Epoch 76: Train Loss 1.6516, Train Acc 73.01%, Val Loss 2.2608, Val Acc 41.86%
+DEBUG: Epoch 77 start
+Epoch 77: Train Loss 1.6346, Train Acc 72.96%, Val Loss 2.2503, Val Acc 42.25%
+DEBUG: Epoch 78 start
+Epoch 78: Train Loss 1.6174, Train Acc 73.38%, Val Loss 2.2401, Val Acc 42.19%
+DEBUG: Epoch 79 start
+Epoch 79: Train Loss 1.6025, Train Acc 73.38%, Val Loss 2.2398, Val Acc 41.70%
+DEBUG: Epoch 80 start
+Epoch 80: Train Loss 1.5853, Train Acc 73.67%, Val Loss 2.2323, Val Acc 42.30%
+DEBUG: Epoch 81 start
+Epoch 81: Train Loss 1.5695, Train Acc 74.37%, Val Loss 2.2320, Val Acc 41.81%
+DEBUG: Epoch 82 start
+Epoch 82: Train Loss 1.5546, Train Acc 74.35%, Val Loss 2.2220, Val Acc 42.30%
+DEBUG: Epoch 83 start
+Epoch 83: Train Loss 1.5385, Train Acc 74.86%, Val Loss 2.2209, Val Acc 42.14%
+DEBUG: Epoch 84 start
+Epoch 84: Train Loss 1.5210, Train Acc 75.13%, Val Loss 2.2149, Val Acc 41.70%
+DEBUG: Epoch 85 start
+Epoch 85: Train Loss 1.5068, Train Acc 75.78%, Val Loss 2.2111, Val Acc 41.81%
+DEBUG: Epoch 86 start
+Epoch 86: Train Loss 1.4915, Train Acc 76.14%, Val Loss 2.2147, Val Acc 41.86%
+DEBUG: Epoch 87 start
+Epoch 87: Train Loss 1.4777, Train Acc 76.44%, Val Loss 2.2138, Val Acc 41.70%
+DEBUG: Epoch 88 start
+Epoch 88: Train Loss 1.4620, Train Acc 76.65%, Val Loss 2.2054, Val Acc 42.03%
+DEBUG: Epoch 89 start
+Epoch 89: Train Loss 1.4478, Train Acc 76.77%, Val Loss 2.1980, Val Acc 41.92%
+DEBUG: Epoch 90 start
+Epoch 90: Train Loss 1.4371, Train Acc 77.62%, Val Loss 2.2071, Val Acc 41.37%
+DEBUG: Epoch 91 start
+Epoch 91: Train Loss 1.4202, Train Acc 77.52%, Val Loss 2.1976, Val Acc 41.92%
+DEBUG: Epoch 92 start
+Epoch 92: Train Loss 1.4040, Train Acc 78.25%, Val Loss 2.2036, Val Acc 42.14%
+DEBUG: Epoch 93 start
+Epoch 93: Train Loss 1.3926, Train Acc 78.44%, Val Loss 2.1952, Val Acc 41.48%
+DEBUG: Epoch 94 start
+Epoch 94: Train Loss 1.3790, Train Acc 78.68%, Val Loss 2.1971, Val Acc 41.75%
+DEBUG: Epoch 95 start
+Epoch 95: Train Loss 1.3656, Train Acc 78.79%, Val Loss 2.1983, Val Acc 41.53%
+DEBUG: Epoch 96 start
+Epoch 96: Train Loss 1.3512, Train Acc 79.75%, Val Loss 2.1928, Val Acc 41.32%
+DEBUG: Epoch 97 start
+Epoch 97: Train Loss 1.3379, Train Acc 80.02%, Val Loss 2.1924, Val Acc 42.19%
+DEBUG: Epoch 98 start
+Epoch 98: Train Loss 1.3254, Train Acc 80.16%, Val Loss 2.1984, Val Acc 41.53%
+DEBUG: Epoch 99 start
+Epoch 99: Train Loss 1.3122, Train Acc 80.44%, Val Loss 2.1947, Val Acc 42.47%
+DEBUG: Epoch 100 start
+Epoch 100: Train Loss 1.2997, Train Acc 80.98%, Val Loss 2.1859, Val Acc 41.26%
+DEBUG: Epoch 101 start
+Epoch 101: Train Loss 1.2872, Train Acc 81.43%, Val Loss 2.1884, Val Acc 40.99%
+DEBUG: Epoch 102 start
+Epoch 102: Train Loss 1.2763, Train Acc 81.54%, Val Loss 2.1882, Val Acc 41.26%
+DEBUG: Epoch 103 start
+Epoch 103: Train Loss 1.2627, Train Acc 81.64%, Val Loss 2.2000, Val Acc 41.21%
+DEBUG: Epoch 104 start
+Epoch 104: Train Loss 1.2522, Train Acc 82.18%, Val Loss 2.2015, Val Acc 41.10%
+DEBUG: Epoch 105 start
+Epoch 105: Train Loss 1.2378, Train Acc 82.84%, Val Loss 2.1944, Val Acc 40.71%
+DEBUG: Epoch 106 start
+Epoch 106: Train Loss 1.2282, Train Acc 82.98%, Val Loss 2.2040, Val Acc 41.59%
+DEBUG: Epoch 107 start
+Epoch 107: Train Loss 1.2141, Train Acc 82.93%, Val Loss 2.2007, Val Acc 41.10%
+DEBUG: Epoch 108 start
+Epoch 108: Train Loss 1.2064, Train Acc 83.56%, Val Loss 2.2066, Val Acc 40.88%
+DEBUG: Epoch 109 start
+Epoch 109: Train Loss 1.1905, Train Acc 83.77%, Val Loss 2.1964, Val Acc 40.88%
+DEBUG: Epoch 110 start
+Epoch 110: Train Loss 1.1807, Train Acc 83.99%, Val Loss 2.1969, Val Acc 40.93%
+DEBUG: Epoch 111 start
+Epoch 111: Train Loss 1.1693, Train Acc 84.17%, Val Loss 2.2047, Val Acc 40.99%
+DEBUG: clf.fit returned
