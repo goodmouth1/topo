@@ -15,4 +15,3 @@ saved_models/
 gyulgwa/
 labeling/manual_labeled_data.pkl
 topo/manual_labeled_data.pkl
-data/allCountries.txt
