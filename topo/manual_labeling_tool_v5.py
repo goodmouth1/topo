@@ -8,9 +8,17 @@ from haversine import haversine
 from openai import OpenAI
 
 # ======================================================
-# 🔑 [필수] API 키 입력 (GPT-4o-mini 번역용)
-# ======================================================
-OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY") 
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+if not OPENAI_API_KEY:
+    try:
+        import getpass
+        OPENAI_API_KEY = getpass.getpass("🔑 OpenAI API 키를 입력하세요 (Hidden): ").strip()
+    except:
+        OPENAI_API_KEY = input("🔑 OpenAI API 키를 입력하세요: ").strip()
+
+if not OPENAI_API_KEY:
+    print("❌ API Key가 입력되지 않았습니다. 프로그램을 종료합니다.")
+    sys.exit() 
 # ======================================================
 
 client = OpenAI(api_key=OPENAI_API_KEY)

@@ -11,9 +11,17 @@ from openai import OpenAI
 from tqdm import tqdm  # 진행률 표시바 (없으면 pip install tqdm)
 
 # ======================================================
-# 🔑 [필수] 여기에 OpenAI API 키를 입력하세요!
-# ======================================================
-OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+if not OPENAI_API_KEY:
+    try:
+        import getpass
+        OPENAI_API_KEY = getpass.getpass("🔑 OpenAI API 키를 입력하세요 (Hidden): ").strip()
+    except:
+        OPENAI_API_KEY = input("🔑 OpenAI API 키를 입력하세요: ").strip()
+
+if not OPENAI_API_KEY:
+    print("❌ API Key가 입력되지 않았습니다. 프로그램을 종료합니다.")
+    sys.exit()
 # ======================================================
 
 # 1. 설정
