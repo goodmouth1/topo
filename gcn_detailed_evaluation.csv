@@ -1,458 +1,458 @@
-﻿user_id,toponym,is_travel,dist_from_home,human_answer,gcn_answer,heuristic_answer,gcn_correct,heuristic_correct
-user_00b5310f,Dallas,True,306.067176281366,Dallas (TX),Dallas (PA),Dallas (TX),False,True
-user_02017000,Andover,False,14.627142311891769,Andover (MA),Andover (MA),Andover (MA),True,True
-user_023b236d,Atlanta,True,900.0509480223,Atlanta (GA),Atlanta (MI),Atlanta (MI),False,False
-user_0244a57d,Bowie,False,8.594601259628018,Bowie (MD),Bowie (MD),Bowie (MD),True,True
-user_02610fd8,Providence,False,249.30172897947222,Providence (RI),Providence (RI),Providence (RI),True,True
-user_03b8fb7a,Harlem,False,6.084675884741152,Harlem (NY),Harlem (NY),Harlem (NY),True,True
-user_041e2cc5,San Diego,True,3474.4817623781164,San Diego (CA),San Diego (TX),San Diego (TX),False,False
-user_048a2452,Manhattan,False,8.330039178639199,Manhattan (NY),Manhattan (NY),Manhattan (NY),True,True
-user_052ef72f,Brooklyn,False,27.71661583821845,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_056a2eb2,Hampton,True,448.2307821995827,Hampton (VA),Hampton (NJ),Hampton (NJ),False,False
-user_060389a4,Manhattan,False,122.85574277263414,Manhattan (NY),Manhattan (NY),Manhattan (NY),True,True
-user_067bc0d1,Inwood,False,6.043661514455277,Inwood (NY),Inwood (NY),Inwood (NY),True,True
-user_069f004b,Harlem,False,2.4430342331885053,Harlem (NY),Harlem (NY),Harlem (NY),True,True
-user_08785d86,Harlem,False,21.824060736491738,Harlem (NY),Harlem (NY),Harlem (NY),True,True
-user_0939608f,Lakewood,False,74.45499129969073,Lakewood (NJ),Lakewood (NJ),Lakewood (NJ),True,True
-user_097f7403,Denver,True,1409.417860935213,Denver (CO),Denver (IA),Denver (CO),False,True
-user_0a36ec73,Oakland,False,8.912968526341173,Oakland (CA),Oakland (FL),Oakland (CA),False,True
-user_0a4990ad,Homestead,False,45.59659345914403,Homestead (FL),Homestead (FL),Homestead (FL),True,True
-user_0a851218,Memphis,True,1029.8952881828657,Memphis (TN),Memphis (MI),Memphis (MI),False,False
-user_0aa401cd,Miami,True,961.0891150867463,Miami (FL),Miami (FL),Miami (FL),True,True
-user_0aa9e025,Wilson,True,331.80814316190987,Wilson (NC),Wilson (NC),Wilson (NC),True,True
-user_0b51ba66,Atlanta,False,154.42396769401188,Atlanta (GA),Atlanta (GA),Atlanta (GA),True,True
-user_0bcff647,Miami,True,1648.2854670530587,Miami (FL),Miami (FL),Miami (FL),True,True
-user_0c840529,Nashville,False,195.0659869878843,Nashville (TN),Nashville (TN),Nashville (TN),True,True
-user_0c88b35d,Miami,False,2.5031615668257308,Miami (FL),Miami (FL),Miami (FL),True,True
-user_0d1081cf,Miami,True,520.8910741942212,Miami (FL),Miami (FL),Miami (FL),True,True
-user_0debbad8,Atlanta,False,3.2589795285036116,Atlanta (GA),Atlanta (GA),Atlanta (GA),True,True
-user_0dfb115e,Hollywood,False,0.3916250655560936,Hollywood (CA),Hollywood (CA),Hollywood (CA),True,True
-user_0e1805ca,Miami,True,1303.5191143016002,Miami (FL),Miami (OK),Miami (FL),False,True
-user_0e22c69a,Birmingham,False,8.342386491432375,Birmingham (AL),Birmingham (AL),Birmingham (AL),True,True
-user_0f5f5078,Elizabeth,False,48.3336279622597,Elizabeth (NJ),Elizabeth (NJ),Elizabeth (NJ),True,True
-user_0f67716d,Houston,False,17.984994922530195,Houston (TX),Houston (MS),Houston (TX),False,True
-user_0fbba2e7,Miami,True,1144.3646906904598,Miami (FL),Miami (FL),Miami (FL),True,True
-user_10cb7fc7,Montclair,False,14.443350588471315,Montclair (NJ),Montclair (CA),Montclair (NJ),False,True
-user_1164a8c8,Brooklyn,False,18.327416773335205,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_118837a7,MIAMI,True,1172.3905516013672,Miami (FL),Miami (FL),Miami (OK),True,False
-user_12323ce3,Decatur,False,19.8739613952404,Decatur (GA),Decatur (GA),Decatur (GA),True,True
-user_13aa4f3e,Miami,True,2064.6708794332817,Miami (FL),Miami (FL),Miami (FL),True,True
-user_13f1924a,Vienna,False,24.481549641752654,Vienna (VA),Vienna (MO),Vienna (VA),False,True
-user_14826dab,Austin,True,2116.435770598212,Austin (TX),Austin (IN),Austin (IN),False,False
-user_14c7e787,Brooklyn,False,18.143585122492688,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_15c7c170,Harlem,False,1.6141849328251443,Harlem (NY),Harlem (NY),Harlem (NY),True,True
-user_16033b01,Boston,True,627.8015405275262,Boston (MA),Boston (NY),Boston (NY),False,False
-user_161c56a9,Woodbury,False,81.7156639956224,Woodbury (NY),Woodbury (NJ),Woodbury (NY),False,False
-user_16857378,Wickliffe,False,93.71035684546887,Wickliffe (OH),Wickliffe (OH),Wickliffe (OH),True,True
-user_17a3238b,Ontario,False,134.7991810586515,Ontario (CA),Ontario (CA),Ontario (CA),True,True
-user_1806ab04,Charlotte,False,103.1042280597612,Charlotte (NC),Charlotte (NC),Charlotte (NC),True,True
-user_1852c07a,Hollywood,False,91.78417256195364,Hollywood (CA),Hollywood (CA),Hollywood (CA),True,True
-user_18ae012e,Nashville,True,1220.8765337808431,Nashville (TN),Nashville (MI),Nashville (NC),False,False
-user_18ec49ca,Brooklyn,False,28.638964446742218,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_192f2b0f,Miami,True,1758.7649681718992,Miami (FL),Miami (FL),Miami (FL),True,True
-user_19f70549,Atlanta,True,1200.4153422146987,Atlanta (GA),Atlanta (MI),Atlanta (MI),False,False
-user_1ada5d12,Newburgh,False,6.897072177208035,Newburgh (NY),Newburgh (NY),Newburgh (NY),True,True
-user_1b3d292e,Boston,True,303.36045206069485,Boston (MA),Boston (MA),Boston (MA),True,True
-user_1b463262,San Diego,False,8.32541510606309,San Diego (CA),San Diego (CA),San Diego (CA),True,True
-user_1b61c9b9,Atlanta,True,1200.0885313762903,Atlanta (GA),Atlanta (MI),Atlanta (MI),False,False
-user_1bad49c0,Harlem,False,27.85345764388163,Harlem (NY),Harlem (NY),Harlem (NY),True,True
-user_1bb3825e,Harlem,False,1.3319379394359836,Harlem (NY),Harlem (NY),Harlem (NY),True,True
-user_1c6ba587,Atlanta,True,695.3591476839252,Atlanta (GA),Atlanta (GA),Atlanta (IL),True,False
-user_1dd18c66,Harlem,True,982.2227513954616,Harlem (NY),Harlem (GA),Harlem (GA),False,False
-user_1dd258bc,Atlanta,True,940.7801188994775,Atlanta (GA),Atlanta (IL),Atlanta (IL),False,False
-user_1df16b0d,Miami,True,1647.2595201042855,Miami (FL),Miami (FL),Miami (FL),True,True
-user_1ea31c40,Brooklyn,False,11.708488955338058,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_1f45fe10,Harlem,False,1.619652230200747,Harlem (NY),Harlem (NY),Harlem (NY),True,True
-user_1fcf1cf9,Brooklyn,False,2.095856713189969,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_1fe04650,Miami,True,344.6623996643623,Miami (FL),Miami (OK),Miami (FL),False,True
-user_20c5df26,Harlem,False,15.008123225793979,Harlem (NY),Harlem (NY),Harlem (NY),True,True
-user_20cb19d7,Syracuse,True,464.57472647097137,Syracuse (NY),Syracuse (NY),Syracuse (NY),True,True
-user_20cbbafe,Belleville,False,8.308153486375808,Belleville (MI),Belleville (MI),Belleville (MI),True,True
-user_212f6e96,Boston,True,1508.4653579901267,Boston (MA),Boston (GA),Boston (GA),False,False
-user_2132651a,Brooklyn,True,3960.5981347931242,Brooklyn (NY),Brooklyn (IA),Brooklyn (IA),False,False
-user_216b9538,Miami,True,981.4354438004242,Miami (FL),Miami (FL),Miami (FL),True,True
-user_23d3fa45,Memphis,True,792.6051258831379,Memphis (TN),Memphis (TX),Memphis (TX),False,False
-user_23f6207a,Brooklyn,False,20.393156032099725,Brooklyn (NY),Brooklyn (OH),Brooklyn (NY),False,True
-user_2463008c,College Park,False,7.641525188056942,College Park (MD),College Park (GA),College Park (MD),False,True
-user_26d90802,Miami,True,1076.7945325982291,Miami (FL),Miami (OK),Miami (OK),False,False
-user_26ebf133,Boston,False,7.251001713391364,Boston (MA),Boston (MA),Boston (MA),True,True
-user_2782049d,Miami,True,1735.2632636586652,Miami (FL),Miami (FL),Miami (FL),True,True
-user_27820aba,Maywood,False,40.103734996135394,Maywood (IL),Maywood (IL),Maywood (IL),True,True
-user_27b53ad4,Boston,True,571.0728407660702,Boston (MA),Boston (NY),Boston (NY),False,False
-user_286d407a,Atlanta,False,2.054614356384391,Atlanta (GA),Atlanta (GA),Atlanta (GA),True,True
-user_28f90bd2,Auburn,False,269.25867825427116,Auburn (AL),Auburn (GA),Auburn (AL),False,True
-user_292905b2,Lawrenceville,True,829.7466201633197,Lawrenceville (GA),Lawrenceville (IL),Lawrenceville (NJ),False,False
-user_296ba2be,Harlem,False,11.591271941450774,Harlem (NY),Harlem (NY),Harlem (NY),True,True
-user_29b9cbf6,Charlotte,False,34.25526649661994,Charlotte (NC),Charlotte (NC),Charlotte (NC),True,True
-user_29df92fa,Brooklyn,True,2236.672028613018,Brooklyn (NY),Brooklyn (MD),Brooklyn (IA),False,False
-user_2ac3017f,Washington,True,409.4314716380531,Washington (UT),Washington (IL),Washington (UT),False,True
-user_2b0c5e38,Manhattan,True,2533.8943915787227,Manhattan (NY),Manhattan (KS),Manhattan (KS),False,False
-user_2c407267,Columbus,False,163.98901893202364,Columbus (OH),Columbus (NJ),Columbus (OH),False,True
-user_2cd0bf7f,Lawndale,False,23.400810545557047,Lawndale (CA),Lawndale (CA),Lawndale (CA),True,True
-user_2de4b0fb,newark,False,7.2996054251657725,Newark (NJ),Newark (NJ),Newark (NJ),True,True
-user_2eb68504,Charlotte,False,3.485547344696457,Charlotte (NC),Charlotte (TX),Charlotte (NC),False,True
-user_2f49b702,Richmond,False,0.8664220598456281,Richmond (VA),Richmond (VA),Richmond (VA),True,True
-user_2f8bbecc,Melbourne,False,257.9270921181192,Melbourne (FL),Melbourne (FL),Melbourne (FL),True,True
-user_324e16b9,Morgantown,False,266.4761866417664,Morgantown (WV),Morgantown (WV),Morgantown (WV),True,True
-user_32557fc1,miami,True,1754.112113843413,Miami (FL),Miami (FL),Miami (FL),True,True
-user_325a147d,upland,False,1.3787354132685914,Upland (CA),Upland (CA),Upland (CA),True,True
-user_33e63ace,Baltimore,False,8.309365796940538,Baltimore (MD),Baltimore (MD),Baltimore (MD),True,True
-user_33e8dc8e,Harlem,False,0.867189143183619,Harlem (NY),Harlem (NY),Harlem (NY),True,True
-user_34608923,Boston,False,151.5628362813219,Boston (MA),Boston (NY),Boston (MA),False,True
-user_34c0876f,Riverside,False,88.42952522050467,Riverside (CA),Riverside (CA),Riverside (CA),True,True
-user_350cd58e,Miami,True,1641.5400766563876,Miami (FL),Miami (FL),Miami (FL),True,True
-user_35c9a8bc,Fayetteville,False,141.06917436083788,Fayetteville (NC),Fayetteville (NC),Fayetteville (NC),True,True
-user_361d185d,Louisville,True,656.2265898163757,Louisville (KY),Louisville (GA),Louisville (MS),False,False
-user_361e6af5,Denver,False,4.7681111561689935,Denver (CO),Denver (NC),Denver (CO),False,True
-user_3646d71a,Atlanta,False,68.47634690616856,Atlanta (GA),Atlanta (GA),Atlanta (GA),True,True
-user_3680708d,Miami,True,1305.1857294370568,Miami (FL),Miami (FL),Miami (FL),True,True
-user_36ee45f9,Astoria,False,4.416188698178979,Astoria (NY),Astoria (NY),Astoria (NY),True,True
-user_3b191d70,Selma,True,1419.3480502855261,Selma (AL),Selma (NC),Selma (NC),False,False
-user_3c3f837e,Westlake,True,516.115209593097,Westlake (OH),Westlake (OH),Westlake (OH),True,True
-user_3c646e37,Brooklyn,False,6.900613338795828,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_3ca05352,Berea,False,10.769291589727162,Berea (OH),Berea (OH),Berea (OH),True,True
-user_3cc9c070,Brooklyn,False,5.091110484081516,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_207d96b2,Sunset,True,2501.5147273932644,Sunset (LA),Sunset (UT),Sunset (UT),False,False
-user_306796d1,Holland,True,652.932170798874,Holland (OH),Holland (NY),Holland (OH),False,True
-user_3d07697f,Toledo,False,5.098329776381269,Toledo (OH),Toledo (OH),Toledo (OH),True,True
-user_3d37f6e4,Washington,False,11.382808627882905,Washington (DC),Washington (NJ),Washington (DC),False,True
-user_3d8ffebb,Denver,True,1264.2042136055904,Denver (CO),Denver (CO),Denver (CO),True,True
-user_3dd104e2,MIAMI,True,1759.6049110957251,Miami (FL),Miami (FL),Miami (FL),True,True
-user_3dd78b5f,Memphis,False,4.145992617121439,Memphis (TN),Memphis (TN),Memphis (TN),True,True
-user_3e643190,Rockville,False,40.78103974460318,Rockville (MD),Rockville (MD),Rockville (MD),True,True
-user_3f6bb7e3,Berkeley,False,24.22747292918404,Berkeley (CA),Berkeley (CA),Berkeley (CA),True,True
-user_3fc8c5e6,Ocean City,False,182.03427570443898,Ocean City (MD),Ocean City (MD),Ocean City (MD),True,True
-user_3fcd67d1,San Diego,False,200.90876608348202,San Diego (CA),San Diego (TX),San Diego (CA),False,True
-user_409cfb8b,West Hollywood,False,48.43369110130296,West Hollywood (CA),West Hollywood (FL),West Hollywood (CA),False,True
-user_4119a52d,Savannah,False,298.37464332836316,Savannah (GA),Savannah (GA),Savannah (GA),True,True
-user_4195e0ac,Denver,True,2362.5898425647288,Denver (CO),Denver (PA),Denver (PA),False,False
-user_42a63a6e,Columbus,False,12.637019196078272,Columbus (OH),Columbus (NC),Columbus (OH),False,True
-user_431086bc,Miami,False,32.72714555878384,Miami (FL),Miami (AZ),Miami (FL),False,True
-user_43a9815a,Brooklyn,False,4.097145298005638,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_43fca10f,Oregon,True,417.98233152356147,Oregon (MO),Oregon (MO),Oregon (IL),True,False
-user_44b7e7f8,Brooklyn,False,125.97772557146926,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_454630bc,Atlanta,True,697.6622613231469,Atlanta (GA),Atlanta (GA),Atlanta (IL),True,False
-user_45daa5a8,Miami,True,956.9988318281,Miami (FL),Miami (FL),Miami (FL),True,True
-user_461aadba,West Hollywood,True,2700.873205713544,West Hollywood (CA),West Hollywood (FL),West Hollywood (FL),False,False
-user_461f49ba,College Park,False,8.243841074317329,College Park (MD),College Park (MD),College Park (MD),True,True
-user_46ed49ff,Brooklyn,True,3931.6155969807605,Brooklyn (NY),Brooklyn (IA),Brooklyn (IA),False,False
-user_484bf229,Atlanta,True,471.21940897382,Atlanta (GA),Atlanta (GA),Atlanta (GA),True,True
-user_494f0774,Houston,False,24.985527994759053,Houston (TX),Houston (TX),Houston (TX),True,True
-user_499d86fb,Brooklyn,False,12.099361416960607,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_49ca2625,Atlanta,False,50.3446424543446,Atlanta (GA),Atlanta (GA),Atlanta (GA),True,True
-user_49e82ac6,Savannah,True,360.4480130493697,Savannah (GA),Savannah (GA),Savannah (GA),True,True
-user_4b04a2ef,Hampton,False,243.70259701074602,Hampton (VA),Hampton (SC),Hampton (VA),False,True
-user_4b102b56,New Haven,True,1078.218617030095,New Haven (CT),New Haven (CT),New Haven (WV),True,False
-user_4be1a40b,Winthrop,True,305.53887943116393,Winthrop (MA),Winthrop (MA),Winthrop (MA),True,True
-user_4be8c844,Miami,False,1.5081267563926763,Miami (FL),Miami (TX),Miami (FL),False,True
-user_4becb9db,Westlake,True,526.7116871192344,Westlake (OH),Westlake (OH),Westlake (OH),True,True
-user_4c30d4e5,long beach,False,156.7653751076155,Long Beach (CA),Long Beach (CA),Long Beach (CA),True,True
-user_4cf4c193,Houston,True,2286.4656705630523,Houston (TX),Houston (PA),Houston (PA),False,False
-user_4e1ba69a,Brooklyn,False,27.634517004901166,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_4e4a39dd,Bristol,True,506.2416145566552,Bristol (TN),Bristol (TN),Bristol (PA),True,False
-user_4f6e69b0,Richmond,True,734.8701574947979,Richmond (KY),Richmond (VA),Richmond (VA),False,False
-user_50d6277a,Chesapeake,False,107.24064271479399,Chesapeake (VA),Chesapeake (VA),Chesapeake (VA),True,True
-user_50f69b22,Garden City,False,7.934009715874818,Garden City (NY),Garden City (NY),Garden City (NY),True,True
-user_519f5087,Miami,True,972.4400284085434,Miami (FL),Miami (FL),Miami (FL),True,True
-user_524a859c,Miami,True,1547.8986427743744,Miami (FL),Miami (FL),Miami (FL),True,True
-user_529047f3,Cleveland,True,368.59776125189967,Cleveland (OH),Cleveland (OH),Cleveland (OH),True,True
-user_52eed52f,Stratford,False,0.505364497098877,Stratford (CT),Stratford (CT),Stratford (CT),True,True
-user_531dc01f,Linden,False,66.72344393697186,Linden (NJ),Linden (NJ),Linden (NJ),True,True
-user_534496d1,Boston,True,624.793963614817,Boston (MA),Boston (NY),Boston (NY),False,False
-user_536537ce,Miami,True,1756.565609562791,Miami (FL),Miami (OK),Miami (OK),False,False
-user_5396dc89,Denton,False,3.3825405641794943,Denton (TX),Denton (TX),Denton (TX),True,True
-user_539f3253,Miami,False,20.2415104928024,Miami (FL),Miami (FL),Miami (FL),True,True
-user_53a003cc,MIAMI,True,1513.7525104357917,Miami (FL),Miami (FL),Miami (FL),True,True
-user_5499067a,Harlem,False,13.598057989212572,Harlem (NY),Harlem (NY),Harlem (NY),True,True
-user_552757d6,Harlem,False,1.8085994131461751,Harlem (NY),Harlem (NY),Harlem (NY),True,True
-user_5617f673,Brooklyn,False,7.571598397144255,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_58b089db,Houston,False,107.81286690958713,Houston (TX),Houston (TX),Houston (TX),True,True
-user_58f8ca48,Miami,True,913.3444561384896,Miami (FL),Miami (AZ),Miami (FL),False,True
-user_59197f81,Syracuse,True,322.80808977898397,Syracuse (NY),Syracuse (NY),Syracuse (NY),True,True
-user_5926de1a,Miami,True,653.6344631363497,Miami (FL),Miami (FL),Miami (FL),True,True
-user_593690ee,Atlanta,False,8.365704668399175,Atlanta (GA),Atlanta (MI),Atlanta (GA),False,True
-user_59e62d83,Birmingham,False,237.96825590163536,Birmingham (AL),Birmingham (AL),Birmingham (AL),True,True
-user_5b3b11bc,Atlanta,False,19.083592224162715,Atlanta (GA),Atlanta (TX),Atlanta (GA),False,True
-user_5c9c8a59,Brooklyn,False,42.057095858687155,Brooklyn (NY),Brooklyn (IN),Brooklyn (NY),False,True
-user_5cd3bb41,Eureka,False,113.42934389856968,Eureka (NV),Eureka (KS),Eureka (NV),False,True
-user_5da5dbb7,Boston,False,3.9965076575139165,Boston (MA),Boston (MA),Boston (MA),True,True
-user_5db327a9,Toledo,False,16.101906434480906,Toledo (OH),Toledo (OH),Toledo (OH),True,True
-user_60488d33,Houston,True,635.5108803003433,Houston (TX),Houston (TX),Houston (MO),True,False
-user_609ea64b,Boston,True,465.13650872068376,Boston (NY),Boston (MA),Boston (MA),False,False
-user_610bb3b7,Oceanside,False,55.910661341095576,Oceanside (CA),Oceanside (CA),Oceanside (CA),True,True
-user_6197f95d,Trenton,False,47.69674864685587,Trenton (NJ),Trenton (NJ),Trenton (NJ),True,True
-user_61e666bf,Glendale,False,19.460387081028077,Glendale (AZ),Glendale (CA),Glendale (AZ),False,True
-user_61f4648b,Pontiac,False,12.665406369249274,Pontiac (MI),Pontiac (IL),Pontiac (MI),False,True
-user_6207f37a,Fresno,False,86.05940072001106,Fresno (CA),Fresno (CA),Fresno (CA),True,True
-user_631e1ca3,Miami,True,1722.678445057687,Miami (FL),Miami (OK),Miami (OK),False,False
-user_6338c9c7,Newark,True,1600.3565191553282,Newark (NJ),Newark (DE),Newark (AR),False,False
-user_63e4b7b4,Carbondale,True,475.8433043193819,Carbondale (IL),Carbondale (IL),Carbondale (IL),True,True
-user_640c4266,Pittsburg,False,5.616584440256926,Pittsburg (CA),Pittsburg (KS),Pittsburg (CA),False,True
-user_6480aefd,Clearwater,False,28.206431493540727,Clearwater (FL),Clearwater (KS),Clearwater (FL),False,True
-user_65b3ccec,Fairfield,False,82.16304387789032,Fairfield (CA),Fairfield (CA),Fairfield (CA),True,True
-user_671bc6e3,Cleveland,False,13.13300321564927,Cleveland (OH),Cleveland (OH),Cleveland (OH),True,True
-user_675cb851,Richmond,True,464.67785047656884,Richmond (VA),Richmond (MA),Richmond (MA),False,False
-user_67bdac9c,Brooklyn,False,95.68516089265694,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_67fb4232,Charlotte,True,468.959480443111,Charlotte (NC),Charlotte (NC),Charlotte (NC),True,True
-user_68422c47,Baltimore,False,2.5329589031048436,Baltimore (MD),Baltimore (MD),Baltimore (MD),True,True
-user_68819a5d,Wheaton,False,11.615273065255378,Wheaton (MD),Wheaton (MD),Wheaton (MD),True,True
-user_6a257eab,oakland,False,10.62010061654555,Oakland (CA),Oakland (CA),Oakland (CA),True,True
-user_6aebb404,Baltimore,False,13.176902972443527,Baltimore (MD),Baltimore (MD),Baltimore (MD),True,True
-user_6b295971,Eudora,False,244.82881938476905,Eudora (AR),Eudora (AR),Eudora (AR),True,True
-user_6ba3cb98,Anderson,False,41.365471934303805,Anderson (SC),Anderson (SC),Anderson (SC),True,True
-user_6ba8b97d,BROOKLYN,False,164.7896181428078,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_6c7124f8,Irvington,False,1.948475428508463,Irvington (NJ),Irvington (NJ),Irvington (NJ),True,True
-user_6cb629bd,Brooklyn,False,3.291266872713171,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_6cba6c4e,Cleveland,False,190.82283369207457,Cleveland (OH),Cleveland (OH),Cleveland (OH),True,True
-user_6ccd47dd,Portland,False,20.707281181578647,Portland (OR),Portland (OR),Portland (OR),True,True
-user_6e024bbc,College Park,True,1860.713660095445,College Park (MD),College Park (MD),College Park (GA),True,False
-user_6fb277f2,Buffalo,False,0.6737513837818413,Buffalo (NY),Buffalo (WY),Buffalo (NY),False,True
-user_6fd22a16,Reno,True,453.2654217957637,Reno (NV),Reno (OH),Reno (NV),False,True
-user_6ff90889,Boston,True,618.0997707482974,Boston (MA),Boston (NY),Boston (NY),False,False
-user_700e0469,Miami,False,28.940601251609248,Miami (FL),Miami (FL),Miami (FL),True,True
-user_7031d6a0,Monterey,False,249.55687755520637,Monterey (CA),Monterey (CA),Monterey (CA),True,True
-user_70b34feb,Miami,True,1771.8913900493046,Miami (FL),Miami (FL),Miami (FL),True,True
-user_7243fe41,Alexandria,False,1.106641900306008,Alexandria (VA),Alexandria (AL),Alexandria (VA),False,True
-user_72c7237f,Camden,False,2.5405108670271868,Camden (NJ),Camden (NJ),Camden (NJ),True,True
-user_7364ad52,South Beach,True,1128.5575536472081,South Beach (FL),South Beach (FL),South Beach (FL),True,True
-user_738c2300,Oswego,False,0.12083446120004351,Oswego (NY),Oswego (NY),Oswego (NY),True,True
-user_76613831,Brooklyn,False,2.767209056230988,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_77117e21,Tyler,False,7.833489850967409,Tyler (TX),Tyler (TX),Tyler (TX),True,True
-user_781415e0,Macon,False,135.9976423431262,Macon (GA),Macon (GA),Macon (GA),True,True
-user_78ae28e2,Carson,False,8.742534605563455,Carson (CA),Carson (CA),Carson (CA),True,True
-user_79321756,Redmond,False,17.199949163119747,Redmond (WA),Redmond (OR),Redmond (WA),False,True
-user_79bcb87a,Manhattan,False,131.86710879044603,Manhattan (NY),Manhattan (NY),Manhattan (NY),True,True
-user_7a80be05,Miami,True,1754.4262658160576,Miami (FL),Miami (FL),Miami (FL),True,True
-user_7b30766f,Brooklyn,False,50.14219838739156,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_7b552b7c,Brooklyn,False,11.805771200925427,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_7bede529,Addison,False,0.8742112306911183,Addison (TX),Addison (TX),Addison (TX),True,True
-user_7c1acc01,Providence,False,247.9255194811803,Providence (RI),Providence (RI),Providence (RI),True,True
-user_7cbf7bd4,Columbus,False,10.198811041001072,Columbus (OH),Columbus (NC),Columbus (OH),False,True
-user_7d7c3f21,Memphis,False,218.3509883293348,Memphis (TN),Memphis (MI),Memphis (TN),False,True
-user_7d7cc59f,Harlem,False,3.813375173073126,Harlem (NY),Harlem (NY),Harlem (NY),True,True
-user_7f1e77f9,Miami,True,984.9915186102536,Miami (FL),Miami (FL),Miami (FL),True,True
-user_7fde2bd5,Huntsville,False,11.316269459675022,Huntsville (AL),Huntsville (TX),Huntsville (AL),False,True
-user_8013c47f,Atlanta,True,1203.4069849590242,Atlanta (GA),Atlanta (MI),Atlanta (MI),False,False
-user_80160631,Alexandria,False,3.1859160654237955,Alexandria (LA),Alexandria (LA),Alexandria (LA),True,True
-user_8077d0eb,Miami,False,130.25634915458616,Miami (FL),Miami (FL),Miami (FL),True,True
-user_80a69859,Brooklyn,False,1.275997296517329,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_817c0d81,Lafayette,False,3.7228921321501756,Lafayette (IN),Lafayette (TN),Lafayette (IN),False,True
-user_81e8c363,Greensboro,False,132.7926150298147,Greensboro (NC),Greensboro (NC),Greensboro (NC),True,True
-user_827c2018,Toledo,False,111.89655704419096,Toledo (OH),Toledo (OH),Toledo (OH),True,True
-user_82ec083d,Greenville,False,9.751381649486829,Greenville (SC),Greenville (NC),Greenville (SC),False,True
-user_82fdaf16,Shirley,False,96.3706733207255,Shirley (NY),Shirley (NY),Shirley (NY),True,True
-user_83829695,Columbus,False,143.85624559493593,Columbus (OH),Columbus (NC),Columbus (IN),False,False
-user_83bd6e2d,Jacksonville,True,547.9208990849157,Jacksonville (FL),Jacksonville (TX),Jacksonville (NC),False,False
-user_844c0e71,Miami,True,1555.3639315442797,Miami (FL),Miami (OK),Miami (OK),False,False
-user_84807855,Miami,True,1649.281439979042,Miami (FL),Miami (AZ),Miami (FL),False,True
-user_8500fe30,Atlanta,True,1086.9778857229048,Atlanta (GA),Atlanta (MI),Atlanta (MI),False,False
-user_8519d5fe,IRViNGToN,False,45.13872169653751,Irvington (NY),Irvington (NJ),Irvington (NY),False,True
-user_85e14017,Atlanta,True,576.9734445788499,Atlanta (GA),Atlanta (MI),Atlanta (GA),False,True
-user_85ef65bb,Atlanta,True,1199.159583929998,Atlanta (GA),Atlanta (MI),Atlanta (MI),False,False
-user_1f1f8172,Cary,False,229.36331412392,Cary (NC),Cary (NC),Cary (NC),True,True
-user_4622eb24,Miami,True,1760.1553257166524,Miami (FL),Miami (FL),Miami (FL),True,True
-user_6cf32507,Utica,False,272.8913851871278,Utica (NY),Utica (NY),Utica (NY),True,True
-user_77981fc1,Washington,False,20.636103063030344,Washington (DC),Washington (DC),Washington (DC),True,True
-user_7a2388f7,Miami,True,1765.3249510441244,Miami (FL),Miami (OK),Miami (OK),False,False
-user_8067eda7,Washington,False,47.52303320306539,Washington (CT),Washington (CT),Washington (CT),True,True
-user_870dcef6,Brooklyn,False,1.5568275000055614,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_87b2b5a1,Terre Haute,False,278.9578791395294,Terre Haute (IN),Terre Haute (IN),Terre Haute (IN),True,True
-user_881468e6,Richmond,False,10.659916104360576,Richmond (VA),Richmond (VA),Richmond (VA),True,True
-user_89f77fb8,Brooklyn,False,12.684917498139006,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_8a470c86,Fullerton,False,42.87448747072854,Fullerton (CA),Fullerton (CA),Fullerton (CA),True,True
-user_8aed039d,miami,True,1287.17129194676,Miami (FL),Miami (FL),Miami (FL),True,True
-user_8c111e49,Fremont,False,4.970795014040152,Fremont (CA),Fremont (CA),Fremont (CA),True,True
-user_8d3c7dc7,Houston,False,216.77556367855993,Houston (TX),Houston (TX),Houston (TX),True,True
-user_8dc366ac,Louisville,True,1058.1053568522004,Louisville (KY),Louisville (OH),Louisville (OH),False,False
-user_8e57d698,Atlanta,True,971.114279188474,Atlanta (GA),Atlanta (GA),Atlanta (MI),True,False
-user_8f56fc31,San Diego,False,130.14144606124367,San Diego (CA),San Diego (CA),San Diego (CA),True,True
-user_8f57639c,Elmwood Park,False,5.684442972350414,Elmwood Park (NJ),Elmwood Park (NJ),Elmwood Park (NJ),True,True
-user_8fe48fab,Dallas,True,1313.837056571702,Dallas (TX),Dallas (TX),Dallas (TX),True,True
-user_90a5613b,Houston,True,2072.0949731311994,Houston (TX),Houston (PA),Houston (PA),False,False
-user_92ac6e16,Boston,False,83.66863343588606,Boston (MA),Boston (MA),Boston (MA),True,True
-user_92b4999c,Charleston,False,21.613759930250122,Charleston (SC),Charleston (SC),Charleston (SC),True,True
-user_92dfa899,Fresno,False,233.88732826660913,Fresno (CA),Fresno (TX),Fresno (CA),False,True
-user_9429781f,Miami,True,1128.1567611697917,Miami (FL),Miami (FL),Miami (FL),True,True
-user_947292ac,Austin,False,212.44682437034308,Austin (TX),Austin (TX),Austin (TX),True,True
-user_96358b62,Miami,False,21.745759794906437,Miami (FL),Miami (OK),Miami (FL),False,True
-user_4327513f,Albany,False,287.96053148830526,Albany (IN),Albany (IN),Albany (IN),True,True
-user_7236bd85,Miami,True,1185.6316129779584,Miami (FL),Miami (OK),Miami (OK),False,False
-user_75d0af73,Miami,True,1294.3455690607914,Miami (FL),Miami (FL),Miami (FL),True,True
-user_96dfa318,Long Beach,False,25.67469744862136,Long Beach (CA),Long Beach (CA),Long Beach (CA),True,True
-user_9868b9ef,Springfield,False,125.95619443876343,Springfield (GA),Springfield (GA),Springfield (GA),True,True
-user_98db993d,Miami,True,1304.7407405117995,Miami (FL),Miami (FL),Miami (FL),True,True
-user_98ddd248,Austin,True,1786.934524203562,Austin (TX),Austin (AR),Austin (AR),False,False
-user_9980b03a,Nashville,False,17.442921523715093,Nashville (TN),Nashville (GA),Nashville (TN),False,True
-user_99dd5ad3,Atlanta,False,11.696984699297658,Atlanta (GA),Atlanta (GA),Atlanta (GA),True,True
-user_9a101fc7,Memphis,False,23.37556270730118,Memphis (TN),Memphis (TN),Memphis (TN),True,True
-user_9a71fad5,Buffalo,False,4.2796269243378715,Buffalo (NY),Buffalo (NY),Buffalo (NY),True,True
-user_9b3e45a4,Phoenix,True,564.4071554121929,Phoenix (AZ),Phoenix (AZ),Phoenix (AZ),True,True
-user_9dba337e,atlanta,False,249.4752511471019,Atlanta (GA),Atlanta (GA),Atlanta (GA),True,True
-user_9e4aa6ca,chester,True,347.6694296319074,Chester (PA),Chester (VA),Chester (VA),False,False
-user_9eb2da60,Richmond,False,3.1435542451085743,Richmond (VA),Richmond (VA),Richmond (VA),True,True
-user_9ee9c246,Richmond,False,16.573288883691966,Richmond (VA),Richmond (VA),Richmond (VA),True,True
-user_a0751999,Columbia,False,18.82248837139196,Columbia (MD),Columbia (MD),Columbia (MD),True,True
-user_a14bbbe3,Memphis,True,564.447167805979,Memphis (TN),Memphis (TN),Memphis (TN),True,True
-user_a1ab9923,Harlem,False,18.618446058687827,Harlem (NY),Harlem (NY),Harlem (NY),True,True
-user_a1fc3199,Mount Vernon,False,6.58846513266321,Mount Vernon (NY),Mount Vernon (NY),Mount Vernon (NY),True,True
-user_a207fbe1,Toledo,False,2.8034499719948824,Toledo (OH),Toledo (OH),Toledo (OH),True,True
-user_a3ed4b5a,Englewood,False,5.43938273125305,Englewood (IL),Englewood (NJ),Englewood (IL),False,True
-user_a41a50af,Atlanta,True,520.2952792512787,Atlanta (GA),Atlanta (MI),Atlanta (TX),False,False
-user_a4995e81,HOLLYWOOD,False,63.545488520313235,Hollywood (CA),Hollywood (SC),Hollywood (CA),False,True
-user_a58b9cc8,Akron,False,6.778496149682907,Akron (OH),Akron (IN),Akron (OH),False,True
-user_a6faef00,Roseville,False,20.43426595627082,Roseville (CA),Roseville (CA),Roseville (CA),True,True
-user_a75a24e8,Miami,True,2433.8346794393133,Miami (FL),Miami (OK),Miami (OK),False,False
-user_a7f2c379,San Diego,True,3654.000004069938,San Diego (CA),San Diego (TX),San Diego (TX),False,False
-user_a8d52bf6,Cheney,True,3535.6045676950976,Cheney (WA),Cheney (KS),Cheney (KS),False,False
-user_a985d0be,Brooklyn,False,15.381471375927768,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_a9d439b1,Brooklyn,False,24.096755025623303,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_aa5d7fe6,Nassau,False,205.12703895948383,Nassau (NY),Nassau (NY),Nassau (NY),True,True
-user_aa7b1696,Providence,False,2.308142737003397,Providence (RI),Providence (RI),Providence (RI),True,True
-user_ab02f69c,Dover,True,2347.6704437270173,Dover (DE),Dover (AR),Dover (AR),False,False
-user_ab0f1265,Harlem,False,11.6437842864931,Harlem (NY),Harlem (NY),Harlem (NY),True,True
-user_ab3103ed,Collierville,False,18.598490024689603,Collierville (TN),Collierville (TN),Collierville (TN),True,True
-user_abb72a81,Denver,False,27.24399190820953,Denver (CO),Denver (NC),Denver (CO),False,True
-user_abcb619a,Houston,False,32.50365200887612,Houston (TX),Houston (TX),Houston (TX),True,True
-user_acc277fa,Harlem,False,7.506211814774298,Harlem (NY),Harlem (NY),Harlem (NY),True,True
-user_af523113,Miami,True,1142.8373546058533,Miami (FL),Miami (FL),Miami (FL),True,True
-user_af93808c,Savannah,True,390.42615652055355,Savannah (GA),Savannah (TX),Savannah (GA),False,True
-user_afa7ebf8,South Beach,False,151.39374629409457,South Beach (FL),South Beach (FL),South Beach (FL),True,True
-user_b047f85f,Dover,False,5.797255914072279,Dover (DE),Dover (PA),Dover (DE),False,True
-user_b0e5e29f,Bridgeport,False,64.53363648593806,Bridgeport (CT),Bridgeport (CT),Bridgeport (CT),True,True
-user_b1a3e66e,Atlanta,True,365.03019104574685,Atlanta (GA),Atlanta (GA),Atlanta (GA),True,True
-user_b2156df7,Miami,False,45.37998094208924,Miami (FL),Miami (FL),Miami (FL),True,True
-user_b23ccfdc,Brooklyn,False,22.9329050178298,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_b2bb70e4,Hampton,False,12.577505471271614,Hampton (SC),Hampton (VA),Hampton (SC),False,True
-user_b39eaf67,Oakland,False,9.277868980331425,Oakland (CA),Oakland (CA),Oakland (CA),True,True
-user_b4d00b5b,Boston,True,1829.204554440831,Boston (MA),Boston (GA),Boston (GA),False,False
-user_b533823f,Woodhaven,False,8.159882208517864,Woodhaven (NY),Woodhaven (NY),Woodhaven (NY),True,True
-user_b567f44d,Harlem,False,0.7479133564910494,Harlem (NY),Harlem (NY),Harlem (NY),True,True
-user_b5df8279,Worcester,False,87.68567659367363,Worcester (MA),Worcester (MA),Worcester (MA),True,True
-user_b62f8d64,Freeport,False,1.2821345334234053,Freeport (NY),Freeport (NY),Freeport (NY),True,True
-user_b672dfbf,Harlem,True,1639.0562086988866,Harlem (NY),Harlem (NY),Harlem (GA),True,False
-user_b6c370ab,Freeport,False,15.87266974276518,Freeport (NY),Freeport (NY),Freeport (NY),True,True
-user_b76f13e3,Charlotte,False,18.198651407922892,Charlotte (NC),Charlotte (NC),Charlotte (NC),True,True
-user_b83ede93,Plainfield,False,14.217041461675178,Plainfield (NJ),Plainfield (NJ),Plainfield (NJ),True,True
-user_b88733f0,Aurora,True,546.8331968505083,Aurora (OH),Aurora (OH),Aurora (OH),True,True
-user_b9aa2a8a,Houston,True,352.83717998855064,Houston (TX),Houston (TX),Houston (TX),True,True
-user_b9beb6c1,Baltimore,False,294.843677355685,Baltimore (MD),Baltimore (MD),Baltimore (MD),True,True
-user_bbc78ca4,Harlem,False,1.3069416701608232,Harlem (NY),Harlem (GA),Harlem (NY),False,True
-user_bbcbaa46,Columbia,True,812.1447554306037,Columbia (SC),Columbia (NC),Columbia (PA),False,False
-user_bd69214e,Grand Rapids,False,225.0361724639919,Grand Rapids (MI),Grand Rapids (MI),Grand Rapids (MI),True,True
-user_bd96e5e3,Brooklyn,False,2.872436387698994,Brooklyn (NY),Brooklyn (IN),Brooklyn (NY),False,True
-user_be26f1c9,Fresno,False,40.76740673218316,Fresno (CA),Fresno (TX),Fresno (CA),False,True
-user_bfd005f6,Greensboro,False,115.79480810986615,Greensboro (NC),Greensboro (NC),Greensboro (NC),True,True
-user_c00b89cd,Hammond,True,374.21156099312384,Hammond (IN),Hammond (IN),Hammond (IN),True,True
-user_c0535055,Harlem,False,2.252826895362102,Harlem (NY),Harlem (NY),Harlem (NY),True,True
-user_c1275841,Atlanta,True,506.99407794617895,Atlanta (GA),Atlanta (GA),Atlanta (GA),True,True
-user_c14883c7,Edwardsville,True,388.80803773912214,Edwardsville (IL),Edwardsville (IL),Edwardsville (IL),True,True
-user_c183daf3,Miami,True,1140.568881742682,Miami (FL),Miami (FL),Miami (FL),True,True
-user_c1907759,Newark,False,14.438269006366417,Newark (NJ),Newark (OH),Newark (NJ),False,True
-user_c1d0d8c6,Venice,True,2813.575484645925,Venice (CA),Venice (IL),Venice (IL),False,False
-user_c1d7db76,Greenville,True,330.1693768038003,Greenville (SC),Greenville (RI),Greenville (NC),False,False
-user_c1f8c63d,Cleveland,False,49.1793987648166,Cleveland (OH),Cleveland (OH),Cleveland (OH),True,True
-user_c1fe6872,Peoria,True,614.5655125703108,Peoria (IL),Peoria (IL),Peoria (IL),True,True
-user_c26de959,Brooklyn,False,3.725285646782028,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_c3c06426,San Marcos,False,54.9415216823813,San Marcos (TX),San Marcos (CA),San Marcos (TX),False,True
-user_c4fd6d2a,Oakdale,False,178.97460974633225,Oakdale (NY),Oakdale (NY),Oakdale (PA),False,False
-user_c54d81ca,Brownsville,False,1.820914267918242,Brownsville (NY),Brownsville (NY),Brownsville (NY),True,True
-user_c6f73b6a,Manhattan,False,11.419549316943414,Manhattan (NY),Manhattan (NY),Manhattan (NY),True,True
-user_c79cc0cb,Raleigh,False,105.35644313612299,Raleigh (NC),Raleigh (NC),Raleigh (NC),True,True
-user_c7dbbd2b,Hollywood,True,2580.7731840779306,Hollywood (CA),Hollywood (SC),Hollywood (SC),False,False
-user_c88c5b40,Stockbridge,False,2.694747168139578,Stockbridge (GA),Stockbridge (GA),Stockbridge (GA),True,True
-user_c975ee68,Richmond,True,699.0363309758625,Richmond (VA),Richmond (VA),Richmond (MI),True,False
-user_ca355cad,Atlanta,False,0.8462255997188827,Atlanta (GA),Atlanta (GA),Atlanta (GA),True,True
-user_ccad185e,Hurley,False,140.62164196365214,Hurley (NY),Hurley (MS),Hurley (NY),False,True
-user_cd59681b,Clinton,False,13.091916366327206,Clinton (MD),Clinton (MD),Clinton (MD),True,True
-user_ce16611e,Bloomington,False,4.146385248052586,Bloomington (MN),Bloomington (IL),Bloomington (MN),False,True
-user_ce21892c,Boston,True,3690.4402582502266,Boston (MA),Boston (GA),Boston (GA),False,False
-user_ce61c55a,Columbus,False,12.465025972035935,Columbus (OH),Columbus (NC),Columbus (OH),False,True
-user_cf393e6d,Atlanta,False,284.061379719786,Atlanta (GA),Atlanta (TX),Atlanta (GA),False,True
-user_cf46fd0f,Bowie,False,0.34681970845542615,Bowie (MD),Bowie (MD),Bowie (MD),True,True
-user_d002ba13,Newark,False,4.3987999259851405,Newark (NJ),Newark (NJ),Newark (NJ),True,True
-user_d0cc51b1,Brooklyn,False,3.8253186381624276,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_d0d5e0af,Newark,True,4114.692397895194,Newark (NJ),Newark (NJ),Newark (CA),True,False
-user_d1ad106b,Harlem,False,0.729453654390074,Harlem (NY),Harlem (NY),Harlem (NY),True,True
-user_d233a595,Bluefield,False,260.1776889488224,Bluefield (VA),Bluefield (WV),Bluefield (WV),False,False
-user_d2e39d38,Charlotte,False,12.27647877700745,Charlotte (NC),Charlotte (VT),Charlotte (NC),False,True
-user_d2e3c48e,Durham,False,58.746901525846184,Durham (NC),Durham (NC),Durham (NC),True,True
-user_d33f9935,Harlem,False,1.0336035902143847,Harlem (NY),Harlem (NY),Harlem (NY),True,True
-user_d345d930,Carson,False,8.340504028297097,Carson (CA),Carson (CA),Carson (CA),True,True
-user_d3c89cf3,Richmond,False,126.8483142214319,Richmond (VA),Richmond (VA),Richmond (VA),True,True
-user_d4975d9a,Lincoln Heights,False,61.29100456486365,Lincoln Heights (DC),Lincoln Heights (DC),Lincoln Heights (DC),True,True
-user_d5ac0325,Brooklyn,False,3.623152585001472,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_d61b68ff,Florence,False,147.6410894875883,Florence (SC),Florence (SC),Florence (SC),True,True
-user_d656b987,Canaan,False,151.6925907149559,Canaan (CT),Canaan (CT),Canaan (CT),True,True
-user_d669582b,Jamaica,False,3.1615464238866364,Jamaica (NY),Jamaica (NY),Jamaica (NY),True,True
-user_d681d865,Lakeland,False,74.54945921543846,Lakeland (FL),Lakeland (GA),Lakeland (FL),False,True
-user_d747278c,Austin,False,235.36218317036182,Austin (TX),Austin (TX),Austin (TX),True,True
-user_d75db6d7,Princeton,False,42.86019543651634,Princeton (IN),Princeton (WV),Princeton (IN),False,True
-user_d856efd1,Boston,False,20.89572687203823,Boston (MA),Boston (MA),Boston (MA),True,True
-user_d96d5ec3,Miami,True,979.6042536630241,Miami (FL),Miami (FL),Miami (FL),True,True
-user_d99cbbc8,Miami,True,1139.5079216972388,Miami (FL),Miami (FL),Miami (FL),True,True
-user_d9ded648,Memphis,True,703.430668194451,Memphis (TN),Memphis (TN),Memphis (TX),True,False
-user_daf7d642,Atlanta,False,288.19589202641333,Atlanta (GA),Atlanta (GA),Atlanta (GA),True,True
-user_dd7cd36d,Riverside,False,17.703300364002303,Riverside (CA),Riverside (CA),Riverside (CA),True,True
-user_dda698b5,Chelsea,False,30.034617878510858,Chelsea (NY),Chelsea (NY),Chelsea (NY),True,True
-user_ddb0490f,Gainesville,True,480.39528338213967,Gainesville (FL),Gainesville (FL),Gainesville (FL),True,True
-user_ddb0c484,Decatur,False,11.45639810986768,Decatur (GA),Decatur (TX),Decatur (GA),False,True
-user_de5c23d3,Harlem,False,0.7513288910145159,Harlem (NY),Harlem (NY),Harlem (NY),True,True
-user_e1177faa,Boston,True,423.4274423967404,Boston (MA),Boston (NY),Boston (NY),False,False
-user_e1adacb4,Boston,False,298.00447458201376,Boston (MA),Boston (MA),Boston (MA),True,True
-user_e211eaf8,Baltimore,False,7.923729734556029,Baltimore (MD),Baltimore (MD),Baltimore (MD),True,True
-user_e3369ea6,Harlem,True,303.568926368786,Harlem (NY),Harlem (NY),Harlem (NY),True,True
-user_e3cc72af,richmond,False,0.8500962502800633,Richmond (VA),Richmond (VA),Richmond (VA),True,True
-user_e4099e46,Brooklyn,False,4.248658960954175,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_e551e399,chinatown,False,113.65298274888951,Chinatown (NY),Chinatown (PA),Chinatown (PA),False,False
-user_e6f02e7c,Dallas,False,23.04624740318081,Dallas (TX),Dallas (TX),Dallas (TX),True,True
-user_e6f5860b,Boston,True,305.6315603986025,Boston (MA),Boston (MA),Boston (MA),True,True
-user_e8e929ef,Phoenix,True,584.7271878969844,Phoenix (AZ),Phoenix (IL),Phoenix (AZ),False,True
-user_e957f59b,Houston,True,1971.2815288158674,Houston (TX),Houston (PA),Houston (PA),False,False
-user_e9c7b5e8,Miami,True,1773.619769130735,Miami (FL),Miami (FL),Miami (FL),True,True
-user_e9fa37d4,Cleveland,False,48.707848354200465,Cleveland (OH),Cleveland (OH),Cleveland (OH),True,True
-user_ea523b46,Brooklyn,False,17.881068253989163,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_ea684684,Miami,True,1185.6316129779584,Miami (FL),Miami (OK),Miami (OK),False,False
-user_eae37467,richmond,False,14.949230060266082,Richmond (VA),Richmond (VA),Richmond (VA),True,True
-user_eb9a329c,Lincoln,True,336.13616478017354,Lincoln (PA),Lincoln (RI),Lincoln (PA),False,True
-user_ebddf7a7,Kensington,False,27.7297955674586,Kensington (CT),Kensington (CT),Kensington (CT),True,True
-user_ec7b656e,Houston,True,1963.8049983697692,Houston (TX),Houston (PA),Houston (PA),False,False
-user_eca8e6ec,Brooklyn,False,10.588422123808087,Brooklyn (NY),Brooklyn (MD),Brooklyn (NY),False,True
-user_ed1d67e2,Boston,True,2032.4597347707834,Boston (MA),Boston (GA),Boston (GA),False,False
-user_ed302b66,Nashville,False,9.452417313610884,Nashville (TN),Nashville (AR),Nashville (TN),False,True
-user_ed431d39,Hammond,False,2.713515520763997,Hammond (LA),Hammond (LA),Hammond (LA),True,True
-user_ed9f18c3,Elmwood Park,False,3.693611690526916,Elmwood Park (NJ),Elmwood Park (IL),Elmwood Park (NJ),False,True
-user_eda117e0,Glendale,False,41.605860002287095,Glendale (CA),Glendale (CA),Glendale (CA),True,True
-user_eefdb350,boston,False,4.886742044576062,Boston (MA),Boston (MA),Boston (MA),True,True
-user_ef66d3cb,Charlotte,False,14.208374310835058,Charlotte (NC),Charlotte (NC),Charlotte (NC),True,True
-user_f0d7993e,hampton,True,323.7794806644166,Hampton (VA),Hampton (VA),Hampton (VA),True,True
-user_f2687895,Louisville,True,1157.8964378279532,Louisville (KY),Louisville (MS),Louisville (MS),False,False
-user_f2903d80,Miami,True,1576.2699976113167,Miami (FL),Miami (OK),Miami (OK),False,False
-user_f2ae49b0,Savannah,True,362.3423331130176,Savannah (GA),Savannah (TX),Savannah (GA),False,True
-user_f2ed4435,Baltimore,False,5.768603674098281,Baltimore (MD),Baltimore (OH),Baltimore (MD),False,True
-user_f30086fd,Dallas,True,1661.3865496408157,Dallas (TX),Dallas (PA),Dallas (PA),False,False
-user_f332592b,Houston,False,35.481270480208124,Houston (TX),Houston (MS),Houston (TX),False,True
-user_f39334a3,Northridge,False,5.875405423569557,Northridge (CA),Northridge (OH),Northridge (CA),False,True
-user_f41c0e63,Boston,False,27.7311148769445,Boston (MA),Boston (GA),Boston (MA),False,True
-user_f48042bb,Middlesex,False,31.113658744851776,Middlesex (NJ),Middlesex (NJ),Middlesex (NJ),True,True
-user_f51ace99,Houston,False,28.18781670410425,Houston (TX),Houston (TX),Houston (TX),True,True
-user_f52afe40,Hollywood,False,21.98684033702665,Hollywood (CA),Hollywood (CA),Hollywood (CA),True,True
-user_f55c6ac5,Charlotte,False,11.545996887180138,Charlotte (NC),Charlotte (NC),Charlotte (NC),True,True
-user_f5f2fd4b,Memphis,True,590.296964204992,Memphis (TN),Memphis (MI),Memphis (TN),False,True
-user_f63c86b4,Berkeley,False,59.66875248452093,Berkeley (CA),Berkeley (CA),Berkeley (CA),True,True
-user_f7aaf96d,Newark,False,28.727664717209773,Newark (NJ),Newark (NJ),Newark (NJ),True,True
-user_f7c9989b,Richmond,False,35.066336163143845,Richmond (VA),Richmond (VA),Richmond (VA),True,True
-user_f80c331d,Long Beach,False,8.169272191804879,Long Beach (CA),Long Beach (CA),Long Beach (CA),True,True
-user_f8667733,Miami,True,1064.8789656031345,Miami (FL),Miami (FL),Miami (FL),True,True
-user_f88eac49,Oakland,False,40.517088535032784,Oakland (CA),Oakland (CA),Oakland (CA),True,True
-user_f9506d2f,Miami,True,1075.5501714719676,Miami (FL),Miami (FL),Miami (OK),True,False
-user_fb3e980a,Brooklyn,False,16.403100851647167,Brooklyn (NY),Brooklyn (NY),Brooklyn (NY),True,True
-user_fb45895d,Atlanta,False,12.202261178319729,Atlanta (GA),Atlanta (GA),Atlanta (GA),True,True
-user_fc22144f,Miami,True,1267.670755025513,Miami (FL),Miami (OK),Miami (OK),False,False
-user_fca03aeb,Miami,True,1599.8555514885513,Miami (FL),Miami (OK),Miami (OK),False,False
-user_fdc4e61f,Athens,True,578.6214993286951,Athens (GA),Athens (GA),Athens (GA),True,True
-user_fe53ca51,Miami,False,11.124629424704356,Miami (FL),Miami (FL),Miami (FL),True,True
-user_fe80beb2,Monroe,True,747.8064098371482,Monroe (LA),Monroe (NC),Monroe (GA),False,False
-user_feb9f28b,Miami,True,1766.2413486239677,Miami (FL),Miami (FL),Miami (FL),True,True
-user_ff711dd0,Darien,False,31.929998298624273,Darien (IL),Darien (IL),Darien (IL),True,True
-user_ff8fb9a7,Brooklyn,False,14.300452254054656,Brooklyn (NY),Brooklyn (IA),Brooklyn (NY),False,True
-user_ff929708,Beverly Hills,False,105.72337923583044,Beverly Hills (CA),Beverly Hills (FL),Beverly Hills (CA),False,True
+﻿user_id,toponym_text,is_travel,dist_from_home,human_answer,gcn_answer,gcn_correct,dist_answer,dist_correct,pop_answer,pop_correct
+user_00b5310f,Dallas,True,306.067176281366,Dallas (TX),Dallas (PA),False,Dallas (TX),True,Dallas (PA),False
+user_02017000,Andover,False,14.627142311891769,Andover (MA),Andover (MA),True,Andover (MA),True,Andover (MA),True
+user_023b236d,Atlanta,True,900.0509480223,Atlanta (GA),Atlanta (MI),False,Atlanta (MI),False,Atlanta (GA),True
+user_0244a57d,Bowie,False,8.594601259628018,Bowie (MD),Bowie (MD),True,Bowie (MD),True,Bowie (MD),True
+user_02610fd8,Providence,False,249.30172897947222,Providence (RI),Providence (RI),True,Providence (RI),True,Providence (RI),True
+user_03b8fb7a,Harlem,False,6.084675884741152,Harlem (NY),Harlem (NY),True,Harlem (NY),True,Harlem (NY),True
+user_041e2cc5,San Diego,True,3474.4817623781164,San Diego (CA),San Diego (TX),False,San Diego (TX),False,San Diego (CA),True
+user_048a2452,Manhattan,False,8.330039178639199,Manhattan (NY),Manhattan (NY),True,Manhattan (NY),True,Manhattan (NY),True
+user_052ef72f,Brooklyn,False,27.71661583821845,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_056a2eb2,Hampton,True,448.2307821995827,Hampton (VA),Hampton (NJ),False,Hampton (NJ),False,Hampton (VA),True
+user_060389a4,Manhattan,False,122.85574277263414,Manhattan (NY),Manhattan (NY),True,Manhattan (NY),True,Manhattan (NY),True
+user_067bc0d1,Inwood,False,6.043661514455277,Inwood (NY),Inwood (NY),True,Inwood (NY),True,Inwood (NY),True
+user_069f004b,Harlem,False,2.4430342331885053,Harlem (NY),Harlem (NY),True,Harlem (NY),True,Harlem (NY),True
+user_08785d86,Harlem,False,21.824060736491738,Harlem (NY),Harlem (NY),True,Harlem (NY),True,Harlem (NY),True
+user_0939608f,Lakewood,False,74.45499129969073,Lakewood (NJ),Lakewood (NJ),True,Lakewood (NJ),True,Lakewood (NJ),True
+user_097f7403,Denver,True,1409.417860935213,Denver (CO),Denver (IA),False,Denver (CO),True,Denver (CO),True
+user_0a36ec73,Oakland,False,8.912968526341173,Oakland (CA),Oakland (FL),False,Oakland (CA),True,Oakland (CA),True
+user_0a4990ad,Homestead,False,45.59659345914403,Homestead (FL),Homestead (FL),True,Homestead (FL),True,Homestead (FL),True
+user_0a851218,Memphis,True,1029.8952881828657,Memphis (TN),Memphis (MI),False,Memphis (MI),False,Memphis (TN),True
+user_0aa401cd,Miami,True,961.0891150867463,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_0aa9e025,Wilson,True,331.80814316190987,Wilson (NC),Wilson (NC),True,Wilson (NC),True,Wilson (NC),True
+user_0b51ba66,Atlanta,False,154.42396769401188,Atlanta (GA),Atlanta (GA),True,Atlanta (GA),True,Atlanta (GA),True
+user_0bcff647,Miami,True,1648.2854670530587,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_0c840529,Nashville,False,195.0659869878843,Nashville (TN),Nashville (TN),True,Nashville (TN),True,Nashville (TN),True
+user_0c88b35d,Miami,False,2.5031615668257308,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_0d1081cf,Miami,True,520.8910741942212,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_0debbad8,Atlanta,False,3.2589795285036116,Atlanta (GA),Atlanta (GA),True,Atlanta (GA),True,Atlanta (GA),True
+user_0dfb115e,Hollywood,False,0.3916250655560936,Hollywood (CA),Hollywood (CA),True,Hollywood (CA),True,Hollywood (CA),True
+user_0e1805ca,Miami,True,1303.5191143016002,Miami (FL),Miami (OK),False,Miami (FL),True,Miami (FL),True
+user_0e22c69a,Birmingham,False,8.342386491432375,Birmingham (AL),Birmingham (AL),True,Birmingham (AL),True,Birmingham (AL),True
+user_0f5f5078,Elizabeth,False,48.3336279622597,Elizabeth (NJ),Elizabeth (NJ),True,Elizabeth (NJ),True,Elizabeth (NJ),True
+user_0f67716d,Houston,False,17.984994922530195,Houston (TX),Houston (MS),False,Houston (TX),True,Houston (TX),True
+user_0fbba2e7,Miami,True,1144.3646906904598,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_10cb7fc7,Montclair,False,14.443350588471315,Montclair (NJ),Montclair (CA),False,Montclair (NJ),True,Montclair (NJ),True
+user_1164a8c8,Brooklyn,False,18.327416773335205,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_118837a7,MIAMI,True,1172.3905516013672,Miami (FL),Miami (FL),True,Miami (OK),False,Miami (FL),True
+user_12323ce3,Decatur,False,19.8739613952404,Decatur (GA),Decatur (GA),True,Decatur (GA),True,Decatur (GA),True
+user_13aa4f3e,Miami,True,2064.6708794332817,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_13f1924a,Vienna,False,24.481549641752654,Vienna (VA),Vienna (MO),False,Vienna (VA),True,Vienna (VA),True
+user_14826dab,Austin,True,2116.435770598212,Austin (TX),Austin (IN),False,Austin (IN),False,Austin (TX),True
+user_14c7e787,Brooklyn,False,18.143585122492688,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_15c7c170,Harlem,False,1.6141849328251443,Harlem (NY),Harlem (NY),True,Harlem (NY),True,Harlem (NY),True
+user_16033b01,Boston,True,627.8015405275262,Boston (MA),Boston (NY),False,Boston (NY),False,Boston (MA),True
+user_161c56a9,Woodbury,False,81.7156639956224,Woodbury (NY),Woodbury (NJ),False,Woodbury (NY),False,Woodbury (NY),False
+user_16857378,Wickliffe,False,93.71035684546887,Wickliffe (OH),Wickliffe (OH),True,Wickliffe (OH),True,Wickliffe (OH),True
+user_17a3238b,Ontario,False,134.7991810586515,Ontario (CA),Ontario (CA),True,Ontario (CA),True,Ontario (NY),False
+user_1806ab04,Charlotte,False,103.1042280597612,Charlotte (NC),Charlotte (NC),True,Charlotte (NC),True,Charlotte (NC),True
+user_1852c07a,Hollywood,False,91.78417256195364,Hollywood (CA),Hollywood (CA),True,Hollywood (CA),True,Hollywood (CA),True
+user_18ae012e,Nashville,True,1220.8765337808431,Nashville (TN),Nashville (MI),False,Nashville (NC),False,Nashville (TN),True
+user_18ec49ca,Brooklyn,False,28.638964446742218,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_192f2b0f,Miami,True,1758.7649681718992,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_19f70549,Atlanta,True,1200.4153422146987,Atlanta (GA),Atlanta (MI),False,Atlanta (MI),False,Atlanta (GA),True
+user_1ada5d12,Newburgh,False,6.897072177208035,Newburgh (NY),Newburgh (NY),True,Newburgh (NY),True,Newburgh (NY),True
+user_1b3d292e,Boston,True,303.36045206069485,Boston (MA),Boston (MA),True,Boston (MA),True,Boston (MA),True
+user_1b463262,San Diego,False,8.32541510606309,San Diego (CA),San Diego (CA),True,San Diego (CA),True,San Diego (CA),True
+user_1b61c9b9,Atlanta,True,1200.0885313762903,Atlanta (GA),Atlanta (MI),False,Atlanta (MI),False,Atlanta (GA),True
+user_1bad49c0,Harlem,False,27.85345764388163,Harlem (NY),Harlem (NY),True,Harlem (NY),True,Harlem (NY),True
+user_1bb3825e,Harlem,False,1.3319379394359836,Harlem (NY),Harlem (NY),True,Harlem (NY),True,Harlem (NY),True
+user_1c6ba587,Atlanta,True,695.3591476839252,Atlanta (GA),Atlanta (GA),True,Atlanta (IL),False,Atlanta (GA),True
+user_1dd18c66,Harlem,True,982.2227513954616,Harlem (NY),Harlem (GA),False,Harlem (GA),False,Harlem (NY),True
+user_1dd258bc,Atlanta,True,940.7801188994775,Atlanta (GA),Atlanta (IL),False,Atlanta (IL),False,Atlanta (GA),True
+user_1df16b0d,Miami,True,1647.2595201042855,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_1ea31c40,Brooklyn,False,11.708488955338058,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_1f45fe10,Harlem,False,1.619652230200747,Harlem (NY),Harlem (NY),True,Harlem (NY),True,Harlem (NY),True
+user_1fcf1cf9,Brooklyn,False,2.095856713189969,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_1fe04650,Miami,True,344.6623996643623,Miami (FL),Miami (OK),False,Miami (FL),True,Miami (FL),True
+user_20c5df26,Harlem,False,15.008123225793979,Harlem (NY),Harlem (NY),True,Harlem (NY),True,Harlem (NY),True
+user_20cb19d7,Syracuse,True,464.57472647097137,Syracuse (NY),Syracuse (NY),True,Syracuse (NY),True,Syracuse (NY),True
+user_20cbbafe,Belleville,False,8.308153486375808,Belleville (MI),Belleville (MI),True,Belleville (MI),True,Belleville (MI),True
+user_212f6e96,Boston,True,1508.4653579901267,Boston (MA),Boston (GA),False,Boston (GA),False,Boston (MA),True
+user_2132651a,Brooklyn,True,3960.5981347931242,Brooklyn (NY),Brooklyn (IA),False,Brooklyn (IA),False,Brooklyn (NY),True
+user_216b9538,Miami,True,981.4354438004242,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_23d3fa45,Memphis,True,792.6051258831379,Memphis (TN),Memphis (TX),False,Memphis (TX),False,Memphis (TN),True
+user_23f6207a,Brooklyn,False,20.393156032099725,Brooklyn (NY),Brooklyn (OH),False,Brooklyn (NY),True,Brooklyn (NY),True
+user_2463008c,College Park,False,7.641525188056942,College Park (MD),College Park (GA),False,College Park (MD),True,College Park (GA),False
+user_26d90802,Miami,True,1076.7945325982291,Miami (FL),Miami (OK),False,Miami (OK),False,Miami (FL),True
+user_26ebf133,Boston,False,7.251001713391364,Boston (MA),Boston (MA),True,Boston (MA),True,Boston (MA),True
+user_2782049d,Miami,True,1735.2632636586652,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_27820aba,Maywood,False,40.103734996135394,Maywood (IL),Maywood (IL),True,Maywood (IL),True,Maywood (IL),True
+user_27b53ad4,Boston,True,571.0728407660702,Boston (MA),Boston (NY),False,Boston (NY),False,Boston (MA),True
+user_286d407a,Atlanta,False,2.054614356384391,Atlanta (GA),Atlanta (GA),True,Atlanta (GA),True,Atlanta (GA),True
+user_28f90bd2,Auburn,False,269.25867825427116,Auburn (AL),Auburn (GA),False,Auburn (AL),True,Auburn (AL),True
+user_292905b2,Lawrenceville,True,829.7466201633197,Lawrenceville (GA),Lawrenceville (IL),False,Lawrenceville (NJ),False,Lawrenceville (NJ),False
+user_296ba2be,Harlem,False,11.591271941450774,Harlem (NY),Harlem (NY),True,Harlem (NY),True,Harlem (NY),True
+user_29b9cbf6,Charlotte,False,34.25526649661994,Charlotte (NC),Charlotte (NC),True,Charlotte (NC),True,Charlotte (NC),True
+user_29df92fa,Brooklyn,True,2236.672028613018,Brooklyn (NY),Brooklyn (MD),False,Brooklyn (IA),False,Brooklyn (NY),True
+user_2ac3017f,Washington,True,409.4314716380531,Washington (UT),Washington (IL),False,Washington (UT),True,Washington (CT),False
+user_2b0c5e38,Manhattan,True,2533.8943915787227,Manhattan (NY),Manhattan (KS),False,Manhattan (KS),False,Manhattan (NY),True
+user_2c407267,Columbus,False,163.98901893202364,Columbus (OH),Columbus (NJ),False,Columbus (OH),True,Columbus (MT),False
+user_2cd0bf7f,Lawndale,False,23.400810545557047,Lawndale (CA),Lawndale (CA),True,Lawndale (CA),True,Lawndale (CA),True
+user_2de4b0fb,newark,False,7.2996054251657725,Newark (NJ),Newark (NJ),True,Newark (NJ),True,Newark (NJ),True
+user_2eb68504,Charlotte,False,3.485547344696457,Charlotte (NC),Charlotte (TX),False,Charlotte (NC),True,Charlotte (NC),True
+user_2f49b702,Richmond,False,0.8664220598456281,Richmond (VA),Richmond (VA),True,Richmond (VA),True,Richmond (VA),True
+user_2f8bbecc,Melbourne,False,257.9270921181192,Melbourne (FL),Melbourne (FL),True,Melbourne (FL),True,Melbourne (AR),False
+user_324e16b9,Morgantown,False,266.4761866417664,Morgantown (WV),Morgantown (WV),True,Morgantown (WV),True,Morgantown (WV),True
+user_32557fc1,miami,True,1754.112113843413,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_325a147d,upland,False,1.3787354132685914,Upland (CA),Upland (CA),True,Upland (CA),True,Upland (CA),True
+user_33e63ace,Baltimore,False,8.309365796940538,Baltimore (MD),Baltimore (MD),True,Baltimore (MD),True,Baltimore (MD),True
+user_33e8dc8e,Harlem,False,0.867189143183619,Harlem (NY),Harlem (NY),True,Harlem (NY),True,Harlem (NY),True
+user_34608923,Boston,False,151.5628362813219,Boston (MA),Boston (NY),False,Boston (MA),True,Boston (MA),True
+user_34c0876f,Riverside,False,88.42952522050467,Riverside (CA),Riverside (CA),True,Riverside (CA),True,Riverside (CA),True
+user_350cd58e,Miami,True,1641.5400766563876,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_35c9a8bc,Fayetteville,False,141.06917436083788,Fayetteville (NC),Fayetteville (NC),True,Fayetteville (NC),True,Fayetteville (NC),True
+user_361d185d,Louisville,True,656.2265898163757,Louisville (KY),Louisville (GA),False,Louisville (MS),False,Louisville (MS),False
+user_361e6af5,Denver,False,4.7681111561689935,Denver (CO),Denver (NC),False,Denver (CO),True,Denver (CO),True
+user_3646d71a,Atlanta,False,68.47634690616856,Atlanta (GA),Atlanta (GA),True,Atlanta (GA),True,Atlanta (GA),True
+user_3680708d,Miami,True,1305.1857294370568,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_36ee45f9,Astoria,False,4.416188698178979,Astoria (NY),Astoria (NY),True,Astoria (NY),True,Astoria (NY),True
+user_3b191d70,Selma,True,1419.3480502855261,Selma (AL),Selma (NC),False,Selma (NC),False,Selma (NC),False
+user_3c3f837e,Westlake,True,516.115209593097,Westlake (OH),Westlake (OH),True,Westlake (OH),True,Westlake (OH),True
+user_3c646e37,Brooklyn,False,6.900613338795828,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_3ca05352,Berea,False,10.769291589727162,Berea (OH),Berea (OH),True,Berea (OH),True,Berea (OH),True
+user_3cc9c070,Brooklyn,False,5.091110484081516,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_207d96b2,Sunset,True,2501.5147273932644,Sunset (LA),Sunset (UT),False,Sunset (UT),False,Sunset (UT),False
+user_306796d1,Holland,True,652.932170798874,Holland (OH),Holland (NY),False,Holland (OH),True,Holland (OH),True
+user_3d07697f,Toledo,False,5.098329776381269,Toledo (OH),Toledo (OH),True,Toledo (OH),True,Toledo (OH),True
+user_3d37f6e4,Washington,False,11.382808627882905,Washington (DC),Washington (NJ),False,Washington (DC),True,Washington (CT),False
+user_3d8ffebb,Denver,True,1264.2042136055904,Denver (CO),Denver (CO),True,Denver (CO),True,Denver (CO),True
+user_3dd104e2,MIAMI,True,1759.6049110957251,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_3dd78b5f,Memphis,False,4.145992617121439,Memphis (TN),Memphis (TN),True,Memphis (TN),True,Memphis (TN),True
+user_3e643190,Rockville,False,40.78103974460318,Rockville (MD),Rockville (MD),True,Rockville (MD),True,Rockville (MD),True
+user_3f6bb7e3,Berkeley,False,24.22747292918404,Berkeley (CA),Berkeley (CA),True,Berkeley (CA),True,Berkeley (CA),True
+user_3fc8c5e6,Ocean City,False,182.03427570443898,Ocean City (MD),Ocean City (MD),True,Ocean City (MD),True,Ocean City (MD),True
+user_3fcd67d1,San Diego,False,200.90876608348202,San Diego (CA),San Diego (TX),False,San Diego (CA),True,San Diego (CA),True
+user_409cfb8b,West Hollywood,False,48.43369110130296,West Hollywood (CA),West Hollywood (FL),False,West Hollywood (CA),True,West Hollywood (FL),False
+user_4119a52d,Savannah,False,298.37464332836316,Savannah (GA),Savannah (GA),True,Savannah (GA),True,Savannah (GA),True
+user_4195e0ac,Denver,True,2362.5898425647288,Denver (CO),Denver (PA),False,Denver (PA),False,Denver (CO),True
+user_42a63a6e,Columbus,False,12.637019196078272,Columbus (OH),Columbus (NC),False,Columbus (OH),True,Columbus (MT),False
+user_431086bc,Miami,False,32.72714555878384,Miami (FL),Miami (AZ),False,Miami (FL),True,Miami (FL),True
+user_43a9815a,Brooklyn,False,4.097145298005638,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_43fca10f,Oregon,True,417.98233152356147,Oregon (MO),Oregon (MO),True,Oregon (IL),False,Oregon (IL),False
+user_44b7e7f8,Brooklyn,False,125.97772557146926,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_454630bc,Atlanta,True,697.6622613231469,Atlanta (GA),Atlanta (GA),True,Atlanta (IL),False,Atlanta (GA),True
+user_45daa5a8,Miami,True,956.9988318281,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_461aadba,West Hollywood,True,2700.873205713544,West Hollywood (CA),West Hollywood (FL),False,West Hollywood (FL),False,West Hollywood (FL),False
+user_461f49ba,College Park,False,8.243841074317329,College Park (MD),College Park (MD),True,College Park (MD),True,College Park (GA),False
+user_46ed49ff,Brooklyn,True,3931.6155969807605,Brooklyn (NY),Brooklyn (IA),False,Brooklyn (IA),False,Brooklyn (NY),True
+user_484bf229,Atlanta,True,471.21940897382,Atlanta (GA),Atlanta (GA),True,Atlanta (GA),True,Atlanta (GA),True
+user_494f0774,Houston,False,24.985527994759053,Houston (TX),Houston (TX),True,Houston (TX),True,Houston (TX),True
+user_499d86fb,Brooklyn,False,12.099361416960607,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_49ca2625,Atlanta,False,50.3446424543446,Atlanta (GA),Atlanta (GA),True,Atlanta (GA),True,Atlanta (GA),True
+user_49e82ac6,Savannah,True,360.4480130493697,Savannah (GA),Savannah (GA),True,Savannah (GA),True,Savannah (GA),True
+user_4b04a2ef,Hampton,False,243.70259701074602,Hampton (VA),Hampton (SC),False,Hampton (VA),True,Hampton (VA),True
+user_4b102b56,New Haven,True,1078.218617030095,New Haven (CT),New Haven (CT),True,New Haven (WV),False,New Haven (CT),True
+user_4be1a40b,Winthrop,True,305.53887943116393,Winthrop (MA),Winthrop (MA),True,Winthrop (MA),True,Winthrop (MA),True
+user_4be8c844,Miami,False,1.5081267563926763,Miami (FL),Miami (TX),False,Miami (FL),True,Miami (FL),True
+user_4becb9db,Westlake,True,526.7116871192344,Westlake (OH),Westlake (OH),True,Westlake (OH),True,Westlake (OH),True
+user_4c30d4e5,long beach,False,156.7653751076155,Long Beach (CA),Long Beach (CA),True,Long Beach (CA),True,Long Beach (CA),True
+user_4cf4c193,Houston,True,2286.4656705630523,Houston (TX),Houston (PA),False,Houston (PA),False,Houston (TX),True
+user_4e1ba69a,Brooklyn,False,27.634517004901166,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_4e4a39dd,Bristol,True,506.2416145566552,Bristol (TN),Bristol (TN),True,Bristol (PA),False,Bristol (PA),False
+user_4f6e69b0,Richmond,True,734.8701574947979,Richmond (KY),Richmond (VA),False,Richmond (VA),False,Richmond (VA),False
+user_50d6277a,Chesapeake,False,107.24064271479399,Chesapeake (VA),Chesapeake (VA),True,Chesapeake (VA),True,Chesapeake (VA),True
+user_50f69b22,Garden City,False,7.934009715874818,Garden City (NY),Garden City (NY),True,Garden City (NY),True,Garden City (NY),True
+user_519f5087,Miami,True,972.4400284085434,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_524a859c,Miami,True,1547.8986427743744,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_529047f3,Cleveland,True,368.59776125189967,Cleveland (OH),Cleveland (OH),True,Cleveland (OH),True,Cleveland (FL),False
+user_52eed52f,Stratford,False,0.505364497098877,Stratford (CT),Stratford (CT),True,Stratford (CT),True,Stratford (NJ),False
+user_531dc01f,Linden,False,66.72344393697186,Linden (NJ),Linden (NJ),True,Linden (NJ),True,Linden (NJ),True
+user_534496d1,Boston,True,624.793963614817,Boston (MA),Boston (NY),False,Boston (NY),False,Boston (MA),True
+user_536537ce,Miami,True,1756.565609562791,Miami (FL),Miami (OK),False,Miami (OK),False,Miami (FL),True
+user_5396dc89,Denton,False,3.3825405641794943,Denton (TX),Denton (TX),True,Denton (TX),True,Denton (TX),True
+user_539f3253,Miami,False,20.2415104928024,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_53a003cc,MIAMI,True,1513.7525104357917,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_5499067a,Harlem,False,13.598057989212572,Harlem (NY),Harlem (NY),True,Harlem (NY),True,Harlem (NY),True
+user_552757d6,Harlem,False,1.8085994131461751,Harlem (NY),Harlem (NY),True,Harlem (NY),True,Harlem (NY),True
+user_5617f673,Brooklyn,False,7.571598397144255,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_58b089db,Houston,False,107.81286690958713,Houston (TX),Houston (TX),True,Houston (TX),True,Houston (TX),True
+user_58f8ca48,Miami,True,913.3444561384896,Miami (FL),Miami (AZ),False,Miami (FL),True,Miami (FL),True
+user_59197f81,Syracuse,True,322.80808977898397,Syracuse (NY),Syracuse (NY),True,Syracuse (NY),True,Syracuse (NY),True
+user_5926de1a,Miami,True,653.6344631363497,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_593690ee,Atlanta,False,8.365704668399175,Atlanta (GA),Atlanta (MI),False,Atlanta (GA),True,Atlanta (GA),True
+user_59e62d83,Birmingham,False,237.96825590163536,Birmingham (AL),Birmingham (AL),True,Birmingham (AL),True,Birmingham (AL),True
+user_5b3b11bc,Atlanta,False,19.083592224162715,Atlanta (GA),Atlanta (TX),False,Atlanta (GA),True,Atlanta (GA),True
+user_5c9c8a59,Brooklyn,False,42.057095858687155,Brooklyn (NY),Brooklyn (IN),False,Brooklyn (NY),True,Brooklyn (NY),True
+user_5cd3bb41,Eureka,False,113.42934389856968,Eureka (NV),Eureka (KS),False,Eureka (NV),True,Eureka (NV),True
+user_5da5dbb7,Boston,False,3.9965076575139165,Boston (MA),Boston (MA),True,Boston (MA),True,Boston (MA),True
+user_5db327a9,Toledo,False,16.101906434480906,Toledo (OH),Toledo (OH),True,Toledo (OH),True,Toledo (OH),True
+user_60488d33,Houston,True,635.5108803003433,Houston (TX),Houston (TX),True,Houston (MO),False,Houston (TX),True
+user_609ea64b,Boston,True,465.13650872068376,Boston (NY),Boston (MA),False,Boston (MA),False,Boston (MA),False
+user_610bb3b7,Oceanside,False,55.910661341095576,Oceanside (CA),Oceanside (CA),True,Oceanside (CA),True,Oceanside (CA),True
+user_6197f95d,Trenton,False,47.69674864685587,Trenton (NJ),Trenton (NJ),True,Trenton (NJ),True,Trenton (NJ),True
+user_61e666bf,Glendale,False,19.460387081028077,Glendale (AZ),Glendale (CA),False,Glendale (AZ),True,Glendale (CA),False
+user_61f4648b,Pontiac,False,12.665406369249274,Pontiac (MI),Pontiac (IL),False,Pontiac (MI),True,Pontiac (MI),True
+user_6207f37a,Fresno,False,86.05940072001106,Fresno (CA),Fresno (CA),True,Fresno (CA),True,Fresno (CA),True
+user_631e1ca3,Miami,True,1722.678445057687,Miami (FL),Miami (OK),False,Miami (OK),False,Miami (FL),True
+user_6338c9c7,Newark,True,1600.3565191553282,Newark (NJ),Newark (DE),False,Newark (AR),False,Newark (NJ),True
+user_63e4b7b4,Carbondale,True,475.8433043193819,Carbondale (IL),Carbondale (IL),True,Carbondale (IL),True,Carbondale (IL),True
+user_640c4266,Pittsburg,False,5.616584440256926,Pittsburg (CA),Pittsburg (KS),False,Pittsburg (CA),True,Pittsburg (KS),False
+user_6480aefd,Clearwater,False,28.206431493540727,Clearwater (FL),Clearwater (KS),False,Clearwater (FL),True,Clearwater (FL),True
+user_65b3ccec,Fairfield,False,82.16304387789032,Fairfield (CA),Fairfield (CA),True,Fairfield (CA),True,Fairfield (NJ),False
+user_671bc6e3,Cleveland,False,13.13300321564927,Cleveland (OH),Cleveland (OH),True,Cleveland (OH),True,Cleveland (FL),False
+user_675cb851,Richmond,True,464.67785047656884,Richmond (VA),Richmond (MA),False,Richmond (MA),False,Richmond (VA),True
+user_67bdac9c,Brooklyn,False,95.68516089265694,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_67fb4232,Charlotte,True,468.959480443111,Charlotte (NC),Charlotte (NC),True,Charlotte (NC),True,Charlotte (NC),True
+user_68422c47,Baltimore,False,2.5329589031048436,Baltimore (MD),Baltimore (MD),True,Baltimore (MD),True,Baltimore (MD),True
+user_68819a5d,Wheaton,False,11.615273065255378,Wheaton (MD),Wheaton (MD),True,Wheaton (MD),True,Wheaton (MD),True
+user_6a257eab,oakland,False,10.62010061654555,Oakland (CA),Oakland (CA),True,Oakland (CA),True,Oakland (CA),True
+user_6aebb404,Baltimore,False,13.176902972443527,Baltimore (MD),Baltimore (MD),True,Baltimore (MD),True,Baltimore (MD),True
+user_6b295971,Eudora,False,244.82881938476905,Eudora (AR),Eudora (AR),True,Eudora (AR),True,Eudora (AR),True
+user_6ba3cb98,Anderson,False,41.365471934303805,Anderson (SC),Anderson (SC),True,Anderson (SC),True,Anderson (SC),True
+user_6ba8b97d,BROOKLYN,False,164.7896181428078,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_6c7124f8,Irvington,False,1.948475428508463,Irvington (NJ),Irvington (NJ),True,Irvington (NJ),True,Irvington (NY),False
+user_6cb629bd,Brooklyn,False,3.291266872713171,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_6cba6c4e,Cleveland,False,190.82283369207457,Cleveland (OH),Cleveland (OH),True,Cleveland (OH),True,Cleveland (FL),False
+user_6ccd47dd,Portland,False,20.707281181578647,Portland (OR),Portland (OR),True,Portland (OR),True,Portland (OR),True
+user_6e024bbc,College Park,True,1860.713660095445,College Park (MD),College Park (MD),True,College Park (GA),False,College Park (GA),False
+user_6fb277f2,Buffalo,False,0.6737513837818413,Buffalo (NY),Buffalo (WY),False,Buffalo (NY),True,Buffalo (NY),True
+user_6fd22a16,Reno,True,453.2654217957637,Reno (NV),Reno (OH),False,Reno (NV),True,Reno (OH),False
+user_6ff90889,Boston,True,618.0997707482974,Boston (MA),Boston (NY),False,Boston (NY),False,Boston (MA),True
+user_700e0469,Miami,False,28.940601251609248,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_7031d6a0,Monterey,False,249.55687755520637,Monterey (CA),Monterey (CA),True,Monterey (CA),True,Monterey (CA),True
+user_70b34feb,Miami,True,1771.8913900493046,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_7243fe41,Alexandria,False,1.106641900306008,Alexandria (VA),Alexandria (AL),False,Alexandria (VA),True,Alexandria (LA),False
+user_72c7237f,Camden,False,2.5405108670271868,Camden (NJ),Camden (NJ),True,Camden (NJ),True,Camden (NJ),True
+user_7364ad52,South Beach,True,1128.5575536472081,South Beach (FL),South Beach (FL),True,South Beach (FL),True,South Beach (NY),False
+user_738c2300,Oswego,False,0.12083446120004351,Oswego (NY),Oswego (NY),True,Oswego (NY),True,Oswego (NY),True
+user_76613831,Brooklyn,False,2.767209056230988,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_77117e21,Tyler,False,7.833489850967409,Tyler (TX),Tyler (TX),True,Tyler (TX),True,Tyler (TX),True
+user_781415e0,Macon,False,135.9976423431262,Macon (GA),Macon (GA),True,Macon (GA),True,Macon (GA),True
+user_78ae28e2,Carson,False,8.742534605563455,Carson (CA),Carson (CA),True,Carson (CA),True,Carson (CA),True
+user_79321756,Redmond,False,17.199949163119747,Redmond (WA),Redmond (OR),False,Redmond (WA),True,Redmond (WA),True
+user_79bcb87a,Manhattan,False,131.86710879044603,Manhattan (NY),Manhattan (NY),True,Manhattan (NY),True,Manhattan (NY),True
+user_7a80be05,Miami,True,1754.4262658160576,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_7b30766f,Brooklyn,False,50.14219838739156,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_7b552b7c,Brooklyn,False,11.805771200925427,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_7bede529,Addison,False,0.8742112306911183,Addison (TX),Addison (TX),True,Addison (TX),True,Addison (TX),True
+user_7c1acc01,Providence,False,247.9255194811803,Providence (RI),Providence (RI),True,Providence (RI),True,Providence (RI),True
+user_7cbf7bd4,Columbus,False,10.198811041001072,Columbus (OH),Columbus (NC),False,Columbus (OH),True,Columbus (MT),False
+user_7d7c3f21,Memphis,False,218.3509883293348,Memphis (TN),Memphis (MI),False,Memphis (TN),True,Memphis (TN),True
+user_7d7cc59f,Harlem,False,3.813375173073126,Harlem (NY),Harlem (NY),True,Harlem (NY),True,Harlem (NY),True
+user_7f1e77f9,Miami,True,984.9915186102536,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_7fde2bd5,Huntsville,False,11.316269459675022,Huntsville (AL),Huntsville (TX),False,Huntsville (AL),True,Huntsville (AL),True
+user_8013c47f,Atlanta,True,1203.4069849590242,Atlanta (GA),Atlanta (MI),False,Atlanta (MI),False,Atlanta (GA),True
+user_80160631,Alexandria,False,3.1859160654237955,Alexandria (LA),Alexandria (LA),True,Alexandria (LA),True,Alexandria (LA),True
+user_8077d0eb,Miami,False,130.25634915458616,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_80a69859,Brooklyn,False,1.275997296517329,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_817c0d81,Lafayette,False,3.7228921321501756,Lafayette (IN),Lafayette (TN),False,Lafayette (IN),True,Lafayette (IN),True
+user_81e8c363,Greensboro,False,132.7926150298147,Greensboro (NC),Greensboro (NC),True,Greensboro (NC),True,Greensboro (NC),True
+user_827c2018,Toledo,False,111.89655704419096,Toledo (OH),Toledo (OH),True,Toledo (OH),True,Toledo (OH),True
+user_82ec083d,Greenville,False,9.751381649486829,Greenville (SC),Greenville (NC),False,Greenville (SC),True,Greenville (SC),True
+user_82fdaf16,Shirley,False,96.3706733207255,Shirley (NY),Shirley (NY),True,Shirley (NY),True,Shirley (NY),True
+user_83829695,Columbus,False,143.85624559493593,Columbus (OH),Columbus (NC),False,Columbus (IN),False,Columbus (MT),False
+user_83bd6e2d,Jacksonville,True,547.9208990849157,Jacksonville (FL),Jacksonville (TX),False,Jacksonville (NC),False,Jacksonville (NC),False
+user_844c0e71,Miami,True,1555.3639315442797,Miami (FL),Miami (OK),False,Miami (OK),False,Miami (FL),True
+user_84807855,Miami,True,1649.281439979042,Miami (FL),Miami (AZ),False,Miami (FL),True,Miami (FL),True
+user_8500fe30,Atlanta,True,1086.9778857229048,Atlanta (GA),Atlanta (MI),False,Atlanta (MI),False,Atlanta (GA),True
+user_8519d5fe,IRViNGToN,False,45.13872169653751,Irvington (NY),Irvington (NJ),False,Irvington (NY),True,Irvington (NY),True
+user_85e14017,Atlanta,True,576.9734445788499,Atlanta (GA),Atlanta (MI),False,Atlanta (GA),True,Atlanta (GA),True
+user_85ef65bb,Atlanta,True,1199.159583929998,Atlanta (GA),Atlanta (MI),False,Atlanta (MI),False,Atlanta (GA),True
+user_1f1f8172,Cary,False,229.36331412392,Cary (NC),Cary (NC),True,Cary (NC),True,Cary (NC),True
+user_4622eb24,Miami,True,1760.1553257166524,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_6cf32507,Utica,False,272.8913851871278,Utica (NY),Utica (NY),True,Utica (NY),True,Utica (NY),True
+user_77981fc1,Washington,False,20.636103063030344,Washington (DC),Washington (DC),True,Washington (DC),True,Washington (CT),False
+user_7a2388f7,Miami,True,1765.3249510441244,Miami (FL),Miami (OK),False,Miami (OK),False,Miami (FL),True
+user_8067eda7,Washington,False,47.52303320306539,Washington (CT),Washington (CT),True,Washington (CT),True,Washington (CT),True
+user_870dcef6,Brooklyn,False,1.5568275000055614,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_87b2b5a1,Terre Haute,False,278.9578791395294,Terre Haute (IN),Terre Haute (IN),True,Terre Haute (IN),True,Terre Haute (IN),True
+user_881468e6,Richmond,False,10.659916104360576,Richmond (VA),Richmond (VA),True,Richmond (VA),True,Richmond (VA),True
+user_89f77fb8,Brooklyn,False,12.684917498139006,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_8a470c86,Fullerton,False,42.87448747072854,Fullerton (CA),Fullerton (CA),True,Fullerton (CA),True,Fullerton (CA),True
+user_8aed039d,miami,True,1287.17129194676,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_8c111e49,Fremont,False,4.970795014040152,Fremont (CA),Fremont (CA),True,Fremont (CA),True,Fremont (CA),True
+user_8d3c7dc7,Houston,False,216.77556367855993,Houston (TX),Houston (TX),True,Houston (TX),True,Houston (TX),True
+user_8dc366ac,Louisville,True,1058.1053568522004,Louisville (KY),Louisville (OH),False,Louisville (OH),False,Louisville (MS),False
+user_8e57d698,Atlanta,True,971.114279188474,Atlanta (GA),Atlanta (GA),True,Atlanta (MI),False,Atlanta (GA),True
+user_8f56fc31,San Diego,False,130.14144606124367,San Diego (CA),San Diego (CA),True,San Diego (CA),True,San Diego (CA),True
+user_8f57639c,Elmwood Park,False,5.684442972350414,Elmwood Park (NJ),Elmwood Park (NJ),True,Elmwood Park (NJ),True,Elmwood Park (NJ),True
+user_8fe48fab,Dallas,True,1313.837056571702,Dallas (TX),Dallas (TX),True,Dallas (TX),True,Dallas (PA),False
+user_90a5613b,Houston,True,2072.0949731311994,Houston (TX),Houston (PA),False,Houston (PA),False,Houston (TX),True
+user_92ac6e16,Boston,False,83.66863343588606,Boston (MA),Boston (MA),True,Boston (MA),True,Boston (MA),True
+user_92b4999c,Charleston,False,21.613759930250122,Charleston (SC),Charleston (SC),True,Charleston (SC),True,Charleston (SC),True
+user_92dfa899,Fresno,False,233.88732826660913,Fresno (CA),Fresno (TX),False,Fresno (CA),True,Fresno (CA),True
+user_9429781f,Miami,True,1128.1567611697917,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_947292ac,Austin,False,212.44682437034308,Austin (TX),Austin (TX),True,Austin (TX),True,Austin (TX),True
+user_96358b62,Miami,False,21.745759794906437,Miami (FL),Miami (OK),False,Miami (FL),True,Miami (FL),True
+user_4327513f,Albany,False,287.96053148830526,Albany (IN),Albany (IN),True,Albany (IN),True,Albany (IN),True
+user_7236bd85,Miami,True,1185.6316129779584,Miami (FL),Miami (OK),False,Miami (OK),False,Miami (FL),True
+user_75d0af73,Miami,True,1294.3455690607914,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_96dfa318,Long Beach,False,25.67469744862136,Long Beach (CA),Long Beach (CA),True,Long Beach (CA),True,Long Beach (CA),True
+user_9868b9ef,Springfield,False,125.95619443876343,Springfield (GA),Springfield (GA),True,Springfield (GA),True,Springfield (GA),True
+user_98db993d,Miami,True,1304.7407405117995,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_98ddd248,Austin,True,1786.934524203562,Austin (TX),Austin (AR),False,Austin (AR),False,Austin (TX),True
+user_9980b03a,Nashville,False,17.442921523715093,Nashville (TN),Nashville (GA),False,Nashville (TN),True,Nashville (TN),True
+user_99dd5ad3,Atlanta,False,11.696984699297658,Atlanta (GA),Atlanta (GA),True,Atlanta (GA),True,Atlanta (GA),True
+user_9a101fc7,Memphis,False,23.37556270730118,Memphis (TN),Memphis (TN),True,Memphis (TN),True,Memphis (TN),True
+user_9a71fad5,Buffalo,False,4.2796269243378715,Buffalo (NY),Buffalo (NY),True,Buffalo (NY),True,Buffalo (NY),True
+user_9b3e45a4,Phoenix,True,564.4071554121929,Phoenix (AZ),Phoenix (AZ),True,Phoenix (AZ),True,Phoenix (AZ),True
+user_9dba337e,atlanta,False,249.4752511471019,Atlanta (GA),Atlanta (GA),True,Atlanta (GA),True,Atlanta (GA),True
+user_9e4aa6ca,chester,True,347.6694296319074,Chester (PA),Chester (VA),False,Chester (VA),False,Chester (VA),False
+user_9eb2da60,Richmond,False,3.1435542451085743,Richmond (VA),Richmond (VA),True,Richmond (VA),True,Richmond (VA),True
+user_9ee9c246,Richmond,False,16.573288883691966,Richmond (VA),Richmond (VA),True,Richmond (VA),True,Richmond (VA),True
+user_a0751999,Columbia,False,18.82248837139196,Columbia (MD),Columbia (MD),True,Columbia (MD),True,Columbia (PA),False
+user_a14bbbe3,Memphis,True,564.447167805979,Memphis (TN),Memphis (TN),True,Memphis (TN),True,Memphis (TN),True
+user_a1ab9923,Harlem,False,18.618446058687827,Harlem (NY),Harlem (NY),True,Harlem (NY),True,Harlem (NY),True
+user_a1fc3199,Mount Vernon,False,6.58846513266321,Mount Vernon (NY),Mount Vernon (NY),True,Mount Vernon (NY),True,Mount Vernon (NY),True
+user_a207fbe1,Toledo,False,2.8034499719948824,Toledo (OH),Toledo (OH),True,Toledo (OH),True,Toledo (OH),True
+user_a3ed4b5a,Englewood,False,5.43938273125305,Englewood (IL),Englewood (NJ),False,Englewood (IL),True,Englewood (IL),True
+user_a41a50af,Atlanta,True,520.2952792512787,Atlanta (GA),Atlanta (MI),False,Atlanta (TX),False,Atlanta (GA),True
+user_a4995e81,HOLLYWOOD,False,63.545488520313235,Hollywood (CA),Hollywood (SC),False,Hollywood (CA),True,Hollywood (CA),True
+user_a58b9cc8,Akron,False,6.778496149682907,Akron (OH),Akron (IN),False,Akron (OH),True,Akron (OH),True
+user_a6faef00,Roseville,False,20.43426595627082,Roseville (CA),Roseville (CA),True,Roseville (CA),True,Roseville (CA),True
+user_a75a24e8,Miami,True,2433.8346794393133,Miami (FL),Miami (OK),False,Miami (OK),False,Miami (FL),True
+user_a7f2c379,San Diego,True,3654.000004069938,San Diego (CA),San Diego (TX),False,San Diego (TX),False,San Diego (CA),True
+user_a8d52bf6,Cheney,True,3535.6045676950976,Cheney (WA),Cheney (KS),False,Cheney (KS),False,Cheney (KS),False
+user_a985d0be,Brooklyn,False,15.381471375927768,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_a9d439b1,Brooklyn,False,24.096755025623303,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_aa5d7fe6,Nassau,False,205.12703895948383,Nassau (NY),Nassau (NY),True,Nassau (NY),True,Nassau (NY),True
+user_aa7b1696,Providence,False,2.308142737003397,Providence (RI),Providence (RI),True,Providence (RI),True,Providence (RI),True
+user_ab02f69c,Dover,True,2347.6704437270173,Dover (DE),Dover (AR),False,Dover (AR),False,Dover (DE),True
+user_ab0f1265,Harlem,False,11.6437842864931,Harlem (NY),Harlem (NY),True,Harlem (NY),True,Harlem (NY),True
+user_ab3103ed,Collierville,False,18.598490024689603,Collierville (TN),Collierville (TN),True,Collierville (TN),True,Collierville (TN),True
+user_abb72a81,Denver,False,27.24399190820953,Denver (CO),Denver (NC),False,Denver (CO),True,Denver (CO),True
+user_abcb619a,Houston,False,32.50365200887612,Houston (TX),Houston (TX),True,Houston (TX),True,Houston (TX),True
+user_acc277fa,Harlem,False,7.506211814774298,Harlem (NY),Harlem (NY),True,Harlem (NY),True,Harlem (NY),True
+user_af523113,Miami,True,1142.8373546058533,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_af93808c,Savannah,True,390.42615652055355,Savannah (GA),Savannah (TX),False,Savannah (GA),True,Savannah (GA),True
+user_afa7ebf8,South Beach,False,151.39374629409457,South Beach (FL),South Beach (FL),True,South Beach (FL),True,South Beach (NY),False
+user_b047f85f,Dover,False,5.797255914072279,Dover (DE),Dover (PA),False,Dover (DE),True,Dover (DE),True
+user_b0e5e29f,Bridgeport,False,64.53363648593806,Bridgeport (CT),Bridgeport (CT),True,Bridgeport (CT),True,Bridgeport (CT),True
+user_b1a3e66e,Atlanta,True,365.03019104574685,Atlanta (GA),Atlanta (GA),True,Atlanta (GA),True,Atlanta (GA),True
+user_b2156df7,Miami,False,45.37998094208924,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_b23ccfdc,Brooklyn,False,22.9329050178298,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_b2bb70e4,Hampton,False,12.577505471271614,Hampton (SC),Hampton (VA),False,Hampton (SC),True,Hampton (VA),False
+user_b39eaf67,Oakland,False,9.277868980331425,Oakland (CA),Oakland (CA),True,Oakland (CA),True,Oakland (CA),True
+user_b4d00b5b,Boston,True,1829.204554440831,Boston (MA),Boston (GA),False,Boston (GA),False,Boston (MA),True
+user_b533823f,Woodhaven,False,8.159882208517864,Woodhaven (NY),Woodhaven (NY),True,Woodhaven (NY),True,Woodhaven (NY),True
+user_b567f44d,Harlem,False,0.7479133564910494,Harlem (NY),Harlem (NY),True,Harlem (NY),True,Harlem (NY),True
+user_b5df8279,Worcester,False,87.68567659367363,Worcester (MA),Worcester (MA),True,Worcester (MA),True,Worcester (MA),True
+user_b62f8d64,Freeport,False,1.2821345334234053,Freeport (NY),Freeport (NY),True,Freeport (NY),True,Freeport (NY),True
+user_b672dfbf,Harlem,True,1639.0562086988866,Harlem (NY),Harlem (NY),True,Harlem (GA),False,Harlem (NY),True
+user_b6c370ab,Freeport,False,15.87266974276518,Freeport (NY),Freeport (NY),True,Freeport (NY),True,Freeport (NY),True
+user_b76f13e3,Charlotte,False,18.198651407922892,Charlotte (NC),Charlotte (NC),True,Charlotte (NC),True,Charlotte (NC),True
+user_b83ede93,Plainfield,False,14.217041461675178,Plainfield (NJ),Plainfield (NJ),True,Plainfield (NJ),True,Plainfield (NJ),True
+user_b88733f0,Aurora,True,546.8331968505083,Aurora (OH),Aurora (OH),True,Aurora (OH),True,Aurora (OH),True
+user_b9aa2a8a,Houston,True,352.83717998855064,Houston (TX),Houston (TX),True,Houston (TX),True,Houston (TX),True
+user_b9beb6c1,Baltimore,False,294.843677355685,Baltimore (MD),Baltimore (MD),True,Baltimore (MD),True,Baltimore (MD),True
+user_bbc78ca4,Harlem,False,1.3069416701608232,Harlem (NY),Harlem (GA),False,Harlem (NY),True,Harlem (NY),True
+user_bbcbaa46,Columbia,True,812.1447554306037,Columbia (SC),Columbia (NC),False,Columbia (PA),False,Columbia (PA),False
+user_bd69214e,Grand Rapids,False,225.0361724639919,Grand Rapids (MI),Grand Rapids (MI),True,Grand Rapids (MI),True,Grand Rapids (MI),True
+user_bd96e5e3,Brooklyn,False,2.872436387698994,Brooklyn (NY),Brooklyn (IN),False,Brooklyn (NY),True,Brooklyn (NY),True
+user_be26f1c9,Fresno,False,40.76740673218316,Fresno (CA),Fresno (TX),False,Fresno (CA),True,Fresno (CA),True
+user_bfd005f6,Greensboro,False,115.79480810986615,Greensboro (NC),Greensboro (NC),True,Greensboro (NC),True,Greensboro (NC),True
+user_c00b89cd,Hammond,True,374.21156099312384,Hammond (IN),Hammond (IN),True,Hammond (IN),True,Hammond (LA),False
+user_c0535055,Harlem,False,2.252826895362102,Harlem (NY),Harlem (NY),True,Harlem (NY),True,Harlem (NY),True
+user_c1275841,Atlanta,True,506.99407794617895,Atlanta (GA),Atlanta (GA),True,Atlanta (GA),True,Atlanta (GA),True
+user_c14883c7,Edwardsville,True,388.80803773912214,Edwardsville (IL),Edwardsville (IL),True,Edwardsville (IL),True,Edwardsville (IL),True
+user_c183daf3,Miami,True,1140.568881742682,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_c1907759,Newark,False,14.438269006366417,Newark (NJ),Newark (OH),False,Newark (NJ),True,Newark (NJ),True
+user_c1d0d8c6,Venice,True,2813.575484645925,Venice (CA),Venice (IL),False,Venice (IL),False,Venice (IL),False
+user_c1d7db76,Greenville,True,330.1693768038003,Greenville (SC),Greenville (RI),False,Greenville (NC),False,Greenville (SC),True
+user_c1f8c63d,Cleveland,False,49.1793987648166,Cleveland (OH),Cleveland (OH),True,Cleveland (OH),True,Cleveland (FL),False
+user_c1fe6872,Peoria,True,614.5655125703108,Peoria (IL),Peoria (IL),True,Peoria (IL),True,Peoria (IL),True
+user_c26de959,Brooklyn,False,3.725285646782028,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_c3c06426,San Marcos,False,54.9415216823813,San Marcos (TX),San Marcos (CA),False,San Marcos (TX),True,San Marcos (TX),True
+user_c4fd6d2a,Oakdale,False,178.97460974633225,Oakdale (NY),Oakdale (NY),False,Oakdale (PA),False,Oakdale (PA),False
+user_c54d81ca,Brownsville,False,1.820914267918242,Brownsville (NY),Brownsville (NY),True,Brownsville (NY),True,Brownsville (NY),True
+user_c6f73b6a,Manhattan,False,11.419549316943414,Manhattan (NY),Manhattan (NY),True,Manhattan (NY),True,Manhattan (NY),True
+user_c79cc0cb,Raleigh,False,105.35644313612299,Raleigh (NC),Raleigh (NC),True,Raleigh (NC),True,Raleigh (NC),True
+user_c7dbbd2b,Hollywood,True,2580.7731840779306,Hollywood (CA),Hollywood (SC),False,Hollywood (SC),False,Hollywood (CA),True
+user_c88c5b40,Stockbridge,False,2.694747168139578,Stockbridge (GA),Stockbridge (GA),True,Stockbridge (GA),True,Stockbridge (GA),True
+user_c975ee68,Richmond,True,699.0363309758625,Richmond (VA),Richmond (VA),True,Richmond (MI),False,Richmond (VA),True
+user_ca355cad,Atlanta,False,0.8462255997188827,Atlanta (GA),Atlanta (GA),True,Atlanta (GA),True,Atlanta (GA),True
+user_ccad185e,Hurley,False,140.62164196365214,Hurley (NY),Hurley (MS),False,Hurley (NY),True,Hurley (NY),True
+user_cd59681b,Clinton,False,13.091916366327206,Clinton (MD),Clinton (MD),True,Clinton (MD),True,Clinton (TN),False
+user_ce16611e,Bloomington,False,4.146385248052586,Bloomington (MN),Bloomington (IL),False,Bloomington (MN),True,Bloomington (MN),True
+user_ce21892c,Boston,True,3690.4402582502266,Boston (MA),Boston (GA),False,Boston (GA),False,Boston (MA),True
+user_ce61c55a,Columbus,False,12.465025972035935,Columbus (OH),Columbus (NC),False,Columbus (OH),True,Columbus (MT),False
+user_cf393e6d,Atlanta,False,284.061379719786,Atlanta (GA),Atlanta (TX),False,Atlanta (GA),True,Atlanta (GA),True
+user_cf46fd0f,Bowie,False,0.34681970845542615,Bowie (MD),Bowie (MD),True,Bowie (MD),True,Bowie (MD),True
+user_d002ba13,Newark,False,4.3987999259851405,Newark (NJ),Newark (NJ),True,Newark (NJ),True,Newark (NJ),True
+user_d0cc51b1,Brooklyn,False,3.8253186381624276,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_d0d5e0af,Newark,True,4114.692397895194,Newark (NJ),Newark (NJ),True,Newark (CA),False,Newark (NJ),True
+user_d1ad106b,Harlem,False,0.729453654390074,Harlem (NY),Harlem (NY),True,Harlem (NY),True,Harlem (NY),True
+user_d233a595,Bluefield,False,260.1776889488224,Bluefield (VA),Bluefield (WV),False,Bluefield (WV),False,Bluefield (WV),False
+user_d2e39d38,Charlotte,False,12.27647877700745,Charlotte (NC),Charlotte (VT),False,Charlotte (NC),True,Charlotte (NC),True
+user_d2e3c48e,Durham,False,58.746901525846184,Durham (NC),Durham (NC),True,Durham (NC),True,Durham (NC),True
+user_d33f9935,Harlem,False,1.0336035902143847,Harlem (NY),Harlem (NY),True,Harlem (NY),True,Harlem (NY),True
+user_d345d930,Carson,False,8.340504028297097,Carson (CA),Carson (CA),True,Carson (CA),True,Carson (CA),True
+user_d3c89cf3,Richmond,False,126.8483142214319,Richmond (VA),Richmond (VA),True,Richmond (VA),True,Richmond (VA),True
+user_d4975d9a,Lincoln Heights,False,61.29100456486365,Lincoln Heights (DC),Lincoln Heights (DC),True,Lincoln Heights (DC),True,Lincoln Heights (DC),True
+user_d5ac0325,Brooklyn,False,3.623152585001472,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_d61b68ff,Florence,False,147.6410894875883,Florence (SC),Florence (SC),True,Florence (SC),True,Florence (SC),True
+user_d656b987,Canaan,False,151.6925907149559,Canaan (CT),Canaan (CT),True,Canaan (CT),True,Canaan (CT),True
+user_d669582b,Jamaica,False,3.1615464238866364,Jamaica (NY),Jamaica (NY),True,Jamaica (NY),True,Jamaica (NY),True
+user_d681d865,Lakeland,False,74.54945921543846,Lakeland (FL),Lakeland (GA),False,Lakeland (FL),True,Lakeland (FL),True
+user_d747278c,Austin,False,235.36218317036182,Austin (TX),Austin (TX),True,Austin (TX),True,Austin (TX),True
+user_d75db6d7,Princeton,False,42.86019543651634,Princeton (IN),Princeton (WV),False,Princeton (IN),True,Princeton (IN),True
+user_d856efd1,Boston,False,20.89572687203823,Boston (MA),Boston (MA),True,Boston (MA),True,Boston (MA),True
+user_d96d5ec3,Miami,True,979.6042536630241,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_d99cbbc8,Miami,True,1139.5079216972388,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_d9ded648,Memphis,True,703.430668194451,Memphis (TN),Memphis (TN),True,Memphis (TX),False,Memphis (TN),True
+user_daf7d642,Atlanta,False,288.19589202641333,Atlanta (GA),Atlanta (GA),True,Atlanta (GA),True,Atlanta (GA),True
+user_dd7cd36d,Riverside,False,17.703300364002303,Riverside (CA),Riverside (CA),True,Riverside (CA),True,Riverside (CA),True
+user_dda698b5,Chelsea,False,30.034617878510858,Chelsea (NY),Chelsea (NY),True,Chelsea (NY),True,Chelsea (NY),True
+user_ddb0490f,Gainesville,True,480.39528338213967,Gainesville (FL),Gainesville (FL),True,Gainesville (FL),True,Gainesville (FL),True
+user_ddb0c484,Decatur,False,11.45639810986768,Decatur (GA),Decatur (TX),False,Decatur (GA),True,Decatur (GA),True
+user_de5c23d3,Harlem,False,0.7513288910145159,Harlem (NY),Harlem (NY),True,Harlem (NY),True,Harlem (NY),True
+user_e1177faa,Boston,True,423.4274423967404,Boston (MA),Boston (NY),False,Boston (NY),False,Boston (MA),True
+user_e1adacb4,Boston,False,298.00447458201376,Boston (MA),Boston (MA),True,Boston (MA),True,Boston (MA),True
+user_e211eaf8,Baltimore,False,7.923729734556029,Baltimore (MD),Baltimore (MD),True,Baltimore (MD),True,Baltimore (MD),True
+user_e3369ea6,Harlem,True,303.568926368786,Harlem (NY),Harlem (NY),True,Harlem (NY),True,Harlem (NY),True
+user_e3cc72af,richmond,False,0.8500962502800633,Richmond (VA),Richmond (VA),True,Richmond (VA),True,Richmond (VA),True
+user_e4099e46,Brooklyn,False,4.248658960954175,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_e551e399,chinatown,False,113.65298274888951,Chinatown (NY),Chinatown (PA),False,Chinatown (PA),False,Chinatown (PA),False
+user_e6f02e7c,Dallas,False,23.04624740318081,Dallas (TX),Dallas (TX),True,Dallas (TX),True,Dallas (PA),False
+user_e6f5860b,Boston,True,305.6315603986025,Boston (MA),Boston (MA),True,Boston (MA),True,Boston (MA),True
+user_e8e929ef,Phoenix,True,584.7271878969844,Phoenix (AZ),Phoenix (IL),False,Phoenix (AZ),True,Phoenix (AZ),True
+user_e957f59b,Houston,True,1971.2815288158674,Houston (TX),Houston (PA),False,Houston (PA),False,Houston (TX),True
+user_e9c7b5e8,Miami,True,1773.619769130735,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_e9fa37d4,Cleveland,False,48.707848354200465,Cleveland (OH),Cleveland (OH),True,Cleveland (OH),True,Cleveland (FL),False
+user_ea523b46,Brooklyn,False,17.881068253989163,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_ea684684,Miami,True,1185.6316129779584,Miami (FL),Miami (OK),False,Miami (OK),False,Miami (FL),True
+user_eae37467,richmond,False,14.949230060266082,Richmond (VA),Richmond (VA),True,Richmond (VA),True,Richmond (VA),True
+user_eb9a329c,Lincoln,True,336.13616478017354,Lincoln (PA),Lincoln (RI),False,Lincoln (PA),True,Lincoln (PA),True
+user_ebddf7a7,Kensington,False,27.7297955674586,Kensington (CT),Kensington (CT),True,Kensington (CT),True,Kensington (CT),True
+user_ec7b656e,Houston,True,1963.8049983697692,Houston (TX),Houston (PA),False,Houston (PA),False,Houston (TX),True
+user_eca8e6ec,Brooklyn,False,10.588422123808087,Brooklyn (NY),Brooklyn (MD),False,Brooklyn (NY),True,Brooklyn (NY),True
+user_ed1d67e2,Boston,True,2032.4597347707834,Boston (MA),Boston (GA),False,Boston (GA),False,Boston (MA),True
+user_ed302b66,Nashville,False,9.452417313610884,Nashville (TN),Nashville (AR),False,Nashville (TN),True,Nashville (TN),True
+user_ed431d39,Hammond,False,2.713515520763997,Hammond (LA),Hammond (LA),True,Hammond (LA),True,Hammond (LA),True
+user_ed9f18c3,Elmwood Park,False,3.693611690526916,Elmwood Park (NJ),Elmwood Park (IL),False,Elmwood Park (NJ),True,Elmwood Park (NJ),True
+user_eda117e0,Glendale,False,41.605860002287095,Glendale (CA),Glendale (CA),True,Glendale (CA),True,Glendale (CA),True
+user_eefdb350,boston,False,4.886742044576062,Boston (MA),Boston (MA),True,Boston (MA),True,Boston (MA),True
+user_ef66d3cb,Charlotte,False,14.208374310835058,Charlotte (NC),Charlotte (NC),True,Charlotte (NC),True,Charlotte (NC),True
+user_f0d7993e,hampton,True,323.7794806644166,Hampton (VA),Hampton (VA),True,Hampton (VA),True,Hampton (VA),True
+user_f2687895,Louisville,True,1157.8964378279532,Louisville (KY),Louisville (MS),False,Louisville (MS),False,Louisville (MS),False
+user_f2903d80,Miami,True,1576.2699976113167,Miami (FL),Miami (OK),False,Miami (OK),False,Miami (FL),True
+user_f2ae49b0,Savannah,True,362.3423331130176,Savannah (GA),Savannah (TX),False,Savannah (GA),True,Savannah (GA),True
+user_f2ed4435,Baltimore,False,5.768603674098281,Baltimore (MD),Baltimore (OH),False,Baltimore (MD),True,Baltimore (MD),True
+user_f30086fd,Dallas,True,1661.3865496408157,Dallas (TX),Dallas (PA),False,Dallas (PA),False,Dallas (PA),False
+user_f332592b,Houston,False,35.481270480208124,Houston (TX),Houston (MS),False,Houston (TX),True,Houston (TX),True
+user_f39334a3,Northridge,False,5.875405423569557,Northridge (CA),Northridge (OH),False,Northridge (CA),True,Northridge (CA),True
+user_f41c0e63,Boston,False,27.7311148769445,Boston (MA),Boston (GA),False,Boston (MA),True,Boston (MA),True
+user_f48042bb,Middlesex,False,31.113658744851776,Middlesex (NJ),Middlesex (NJ),True,Middlesex (NJ),True,Middlesex (NJ),True
+user_f51ace99,Houston,False,28.18781670410425,Houston (TX),Houston (TX),True,Houston (TX),True,Houston (TX),True
+user_f52afe40,Hollywood,False,21.98684033702665,Hollywood (CA),Hollywood (CA),True,Hollywood (CA),True,Hollywood (CA),True
+user_f55c6ac5,Charlotte,False,11.545996887180138,Charlotte (NC),Charlotte (NC),True,Charlotte (NC),True,Charlotte (NC),True
+user_f5f2fd4b,Memphis,True,590.296964204992,Memphis (TN),Memphis (MI),False,Memphis (TN),True,Memphis (TN),True
+user_f63c86b4,Berkeley,False,59.66875248452093,Berkeley (CA),Berkeley (CA),True,Berkeley (CA),True,Berkeley (CA),True
+user_f7aaf96d,Newark,False,28.727664717209773,Newark (NJ),Newark (NJ),True,Newark (NJ),True,Newark (NJ),True
+user_f7c9989b,Richmond,False,35.066336163143845,Richmond (VA),Richmond (VA),True,Richmond (VA),True,Richmond (VA),True
+user_f80c331d,Long Beach,False,8.169272191804879,Long Beach (CA),Long Beach (CA),True,Long Beach (CA),True,Long Beach (CA),True
+user_f8667733,Miami,True,1064.8789656031345,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_f88eac49,Oakland,False,40.517088535032784,Oakland (CA),Oakland (CA),True,Oakland (CA),True,Oakland (CA),True
+user_f9506d2f,Miami,True,1075.5501714719676,Miami (FL),Miami (FL),True,Miami (OK),False,Miami (FL),True
+user_fb3e980a,Brooklyn,False,16.403100851647167,Brooklyn (NY),Brooklyn (NY),True,Brooklyn (NY),True,Brooklyn (NY),True
+user_fb45895d,Atlanta,False,12.202261178319729,Atlanta (GA),Atlanta (GA),True,Atlanta (GA),True,Atlanta (GA),True
+user_fc22144f,Miami,True,1267.670755025513,Miami (FL),Miami (OK),False,Miami (OK),False,Miami (FL),True
+user_fca03aeb,Miami,True,1599.8555514885513,Miami (FL),Miami (OK),False,Miami (OK),False,Miami (FL),True
+user_fdc4e61f,Athens,True,578.6214993286951,Athens (GA),Athens (GA),True,Athens (GA),True,Athens (GA),True
+user_fe53ca51,Miami,False,11.124629424704356,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_fe80beb2,Monroe,True,747.8064098371482,Monroe (LA),Monroe (NC),False,Monroe (GA),False,Monroe (GA),False
+user_feb9f28b,Miami,True,1766.2413486239677,Miami (FL),Miami (FL),True,Miami (FL),True,Miami (FL),True
+user_ff711dd0,Darien,False,31.929998298624273,Darien (IL),Darien (IL),True,Darien (IL),True,Darien (IL),True
+user_ff8fb9a7,Brooklyn,False,14.300452254054656,Brooklyn (NY),Brooklyn (IA),False,Brooklyn (NY),True,Brooklyn (NY),True
+user_ff929708,Beverly Hills,False,105.72337923583044,Beverly Hills (CA),Beverly Hills (FL),False,Beverly Hills (CA),True,Beverly Hills (CA),True

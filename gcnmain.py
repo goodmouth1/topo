@@ -8,6 +8,7 @@ from __future__ import absolute_import
 from __future__ import division
 import os
 import sys
+import glob
 import argparse
 import pickle
 import pdb
@@ -110,11 +111,32 @@ def preprocess_data(data_home, **kwargs):
     dtype = kwargs.get('dtype', 'float32')
     one_hot_label = kwargs.get('onehot', False)
     vocab_file = os.path.join(data_home, 'vocab.pkl')
-    dump_file = os.path.join(data_home, 'dump.pkl')
+    # Smart Data Loading
+    # 1. Search for .pkl.gz files first (highest priority)
+    found_files = glob.glob(os.path.join(data_home, '*.pkl.gz'))
+    
+    # 2. If no .pkl.gz, search for .pkl, excluding specific files
+    if not found_files:
+        all_pkl = glob.glob(os.path.join(data_home, '*.pkl'))
+        # Exclude 'vocab.pkl' and 'model-*.pkl' to prevent loading wrong artifacts
+        found_files = [f for f in all_pkl if 'vocab.pkl' not in os.path.basename(f) and 'model-' not in os.path.basename(f)]
+    
+    if found_files:
+        dump_file = found_files[0]
+        print(f"DEBUG: Auto-detected data file: {dump_file}")
+    else:
+        dump_file = os.path.join(data_home, 'dump.pkl')
+
     if os.path.exists(dump_file) and not model_args.builddata:
-        print('DEBUG: loading data from dumped file...')
+        print(f'DEBUG: loading data from {dump_file}...')
         sys.stdout.flush()
-        data = load_obj(dump_file)
+        
+        if dump_file.endswith('.gz'):
+            with gzip.open(dump_file, 'rb') as f:
+                data = pickle.load(f, encoding='latin1')
+        else:
+            data = load_obj(dump_file)
+            
         print('DEBUG: loading data finished!')
         sys.stdout.flush()
         return data
@@ -279,8 +301,8 @@ def main(data, args, **kwargs):
             clf.fit(X, A, Y, train_indices=train_indices, val_indices=dev_indices, n_epochs=10000, batch_size=batch_size, max_down=args.maxdown, verbose=verbose, seed=model_args.seed)
             print("DEBUG: clf.fit returned")
             sys.stdout.flush()
-            if True: # [Auto-Fix] Always save
-                clf.save(dump_obj, model_file)
+            #if True: # [Auto-Fix] Always save
+                #clf.save(dump_obj, model_file)
 
             logging.info('dev results:')
             y_pred, _ = clf.predict(X, A, dev_indices)

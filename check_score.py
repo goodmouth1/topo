@@ -1,66 +1,26 @@
-import data
+import sys
 import pickle
 import numpy as np
-from sklearn.metrics import accuracy_score
-import os
 
-print("Loading data...")
-# 1. 데이터 로드
-dataset = data.DataLoader(data_home='./data/', bucket_size=50)
-dataset.load_data()
+# 1. 터미널에서 넘겨준 파일 이름(gcn_1.0_percent_pred_930.pkl)을 정확히 받아옵니다.
+pkl_file = sys.argv[1]
+print(f"Loading predictions from {pkl_file}...")
 
-# -----------------------------------------------------------
-# [자동 탐지 로직] 변수 이름이 달라도 알아서 찾습니다.
-# -----------------------------------------------------------
-test_idx = None
-test_label = None
+with open(pkl_file, 'rb') as f:
+    preds = pickle.load(f)
 
-# 1. Test Index 찾기 (후보군: test_idx, idx_test, test_ids)
-possible_idx_names = ['test_idx', 'idx_test', 'test_ids', 'ids_test', 'test_user_idx']
-for name in possible_idx_names:
-    if hasattr(dataset, name):
-        test_idx = getattr(dataset, name)
-        print(f"✅ Found Test Index variable: '{name}'")
-        break
+# 2. AI 예측값 (preds[0])
+y_p = np.array(preds[0].todense()) if hasattr(preds[0], 'todense') else np.array(preds[0])
+y_pred = np.argmax(y_p, axis=1) if len(np.shape(y_p)) > 1 else y_p.flatten()
 
-# 2. Test Label 찾기 (후보군: test_label, labels_test, y_test, test_y)
-possible_label_names = ['test_label', 'labels_test', 'y_test', 'test_y', 'label_test']
-for name in possible_label_names:
-    if hasattr(dataset, name):
-        test_label = getattr(dataset, name)
-        print(f"✅ Found Test Label variable: '{name}'")
-        break
+# 3. 진짜 정답값 (preds[1])
+y_t = np.array(preds[1].todense()) if hasattr(preds[1], 'todense') else np.array(preds[1])
+y_true = np.argmax(y_t, axis=1) if len(np.shape(y_t)) > 1 else y_t.flatten()
 
-# 3. 그래도 못 찾았으면 목록을 보여주고 종료
-if test_idx is None or test_label is None:
-    print("\n" + "="*50)
-    print("❌ 변수 이름을 자동으로 찾지 못했습니다.")
-    print("dataset 객체 안에 있는 변수 목록은 아래와 같습니다.")
-    print("이 중에서 'Test Index'와 'Test Label'로 보이는 이름을 찾아주세요.")
-    print("="*50)
-    # dataset 안에 있는 모든 변수 이름 출력
-    print(list(dataset.__dict__.keys()))
-    print("="*50 + "\n")
-    exit()
-# -----------------------------------------------------------
+# 4. 심플하고 완벽한 채점
+acc_class = np.mean(y_pred == y_true) * 100
 
-print(f"Test Data Size: {len(test_idx)}")
-
-print("Loading best model...")
-model_path = 'model.pkl'
-
-if not os.path.exists(model_path):
-    print(f"Error: {model_path} 파일을 찾을 수 없습니다.")
-else:
-    with open(model_path, 'rb') as f:
-        model = pickle.load(f)
-
-    print("Predicting...")
-    # 3. 수능 치기
-    preds = model.predict(test_idx)
-
-    # 4. 채점
-    acc = accuracy_score(test_label, preds)
-    print("\n" + "="*40)
-    print(f"🏆 FINAL TEST ACCURACY: {acc * 100:.2f}%")
-    print("="*40 + "\n")
+print("\n" + "="*50)
+print(f"🏆 GCN 모델 최종 정확도 (Class Accuracy) 🏆")
+print(f"✅ 구역 적중률: {acc_class:.2f}%")
+print("="*50 + "\n")
