@@ -1,0 +1,52 @@
+[
+  {
+    "method": "P클래스 | Population-only (기존 baseline)",
+    "total": 2186,
+    "found": 1798,
+    "correct": 987,
+    "acc_total": 45.15,
+    "acc_found": 54.89,
+    "mean_error": 1716.6,
+    "median_error": 1.9
+  },
+  {
+    "method": "P클래스 | Gravity (β=1.5) + 신문사 centroid anchor",
+    "total": 2186,
+    "found": 1798,
+    "correct": 1299,
+    "acc_total": 59.42,
+    "acc_found": 72.25,
+    "mean_error": 677.6,
+    "median_error": 0.0
+  },
+  {
+    "method": "P클래스 | Gravity (β=1.0) + 신문사 centroid anchor",
+    "total": 2186,
+    "found": 1798,
+    "correct": 1205,
+    "acc_total": 55.12,
+    "acc_found": 67.02,
+    "mean_error": 946.5,
+    "median_error": 0.0
+  },
+  {
+    "method": "전체(P+A) | Population-only",
+    "total": 4462,
+    "found": 2116,
+    "correct": 1026,
+    "acc_total": 22.99,
+    "acc_found": 48.49,
+    "mean_error": 2266.1,
+    "median_error": 282.7
+  },
+  {
+    "method": "전체(P+A) | Gravity (β=1.5) + 신문사 centroid anchor",
+    "total": 4462,
+    "found": 2116,
+    "correct": 1342,
+    "acc_total": 30.08,
+    "acc_found": 63.42,
+    "mean_error": 1352.7,
+    "median_error": 0.1
+  }
+]
