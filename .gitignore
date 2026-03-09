@@ -18,3 +18,7 @@ topo/manual_labeled_data.pkl
 original/
 *.txt
 *.csv
+*.log
+*.tsv
+yelp/yelp_academic_dataset_*.json
+yelp/yelp_geotext_format/
